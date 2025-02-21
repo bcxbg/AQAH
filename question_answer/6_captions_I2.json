@@ -1,0 +1,2402 @@
+{
+    "2370057.jpg": {
+        "top_k_text": [
+            "The woman is sitting on the toilet holding a Nintendo Wii controller and is playing a game by using the remote control.",
+            "The woman is playing a video game using a Nintendo Wii controller while sitting on a toilet.",
+            "The woman is sitting on a toilet, playing a Wii video game.",
+            "The woman is playing a Wii game using a Wii remote, although it makes it appear as if she is using it on the toilet seat."
+        ],
+        "beam_text:": [
+            "The woman is playing a video game while sitting on the toilet.",
+            "The woman is playing a video game while sitting on the toilet."
+        ]
+    },
+    "2329044.jpg": {
+        "top_k_text": [
+            "The object on the street is a traffic light.",
+            "There is a stop sign or traffic signal on the street, located in front of a roadway.",
+            "The object on the street is a red stoplight.",
+            "There is an object on the street, which appears to be an orange traffic light."
+        ],
+        "beam_text:": [
+            "There is a traffic light on the street.",
+            "There is a traffic light on the street."
+        ]
+    },
+    "2323896.jpg": {
+        "top_k_text": [
+            "A rail is attached to the toilet in the bathroom.",
+            "A roll of toilet paper is attached to the toilet.",
+            "The object attached to the toilet is a rolling commode attachment.",
+            "There is a standing rail attached to the toilet."
+        ],
+        "beam_text:": [
+            "A toilet paper holder is attached to the toilet.",
+            "A toilet paper holder is attached to the toilet."
+        ]
+    },
+    "2417265.jpg": {
+        "top_k_text": [
+            "The plate has a hot dog and a cup of chili.",
+            "On the plate, there is a hot dog with cheese sauce, which is also likely a chili dog.",
+            "On the plate, there are two hot dogs smothered in cheese placed next to each other.",
+            "There are two hot dogs on a plate."
+        ],
+        "beam_text:": [
+            "There are two hot dogs on the plate.",
+            "There are two hot dogs on the plate."
+        ]
+    },
+    "2362946.jpg": {
+        "top_k_text": [
+            "There are two people in the scene.",
+            "There are multiple people in the scene, but I cannot determine an exact number based on the provided information.",
+            "There are half a dozen people in the scene.",
+            "The image shows a group of people, but without providing an exact number, we cannot determine the exact number of individuals present in the scene."
+        ],
+        "beam_text:": [
+            "There are four people in the scene.",
+            "There are four people in the scene."
+        ]
+    },
+    "2339879.jpg": {
+        "top_k_text": [
+            "The hydrant is named \"Fire Hydrant.\"",
+            "The name of the hydrant is Hydrant No. 150.",
+            "The name of the hydrant is \"Waterous.\"",
+            "The name of the hydrant is Waterous."
+        ],
+        "beam_text:": [
+            "The name of the hydrant is \"Waterous.\"",
+            "The name of the hydrant is \"Waterous.\""
+        ]
+    },
+    "2355034.jpg": {
+        "top_k_text": [
+            "The airplane is located above a white cloud in the sky.",
+            "The airplane is located high in the sky, among clouds.",
+            "The airplane is flying through the sky over a big beautiful cloud.",
+            "The airplane is located in the sky, possibly at the center or surrounded by clouds."
+        ],
+        "beam_text:": [
+            "The airplane is located in the sky.",
+            "The airplane is located in the sky."
+        ]
+    },
+    "2384832.jpg": {
+        "top_k_text": [
+            "In the image, the person is riding a dirt bike, going around a turn while racing on dirt terrain. They may also be using a protective helmet and gear for safety and comfort during the ride.",
+            "The person on the dirt bike is riding on a dirt track, participating in an off-road racing event. The motorcyclist is navigating through the course, possibly going around a curve in the dirt field.",
+            "The person on the dirt bike is riding it through an uneven dirt path and jumping in the air, possibly performing tricks on a trail or engaging in motocross racing.",
+            "The person, dressed in biking attire, is riding the dirt bike across a field of grass. He appears to be enjoying his ride on the off-road bike."
+        ],
+        "beam_text:": [
+            "The person is riding a dirt bike down a dirt road or trail.",
+            "The person is riding a dirt bike down a dirt road or trail."
+        ]
+    },
+    "2394500.jpg": {
+        "top_k_text": [
+            "In the image, the sun is getting ready to set, creating a warm and golden ambiance.",
+            "The setting sun in the image is glowing and orange, creating a beautiful and warm atmosphere.",
+            "The setting sun in the image appears as a sinking or low-hanging disk, giving the landscape a warm and tranquil atmosphere.",
+            "The setting sun in the image is orange, casting a warm and golden glow on the sky. This adds a sense of serenity to the scene with the horse statue near the church and the clock tower."
+        ],
+        "beam_text:": [
+            "The setting sun in the image is orange, creating a beautiful and warm atmosphere.",
+            "The setting sun in the image is orange, creating a beautiful and warm atmosphere."
+        ]
+    },
+    "2411253.jpg": {
+        "top_k_text": [
+            "The clock is set in a pedestrian plaza of a historic, quaint town. It is near the buildings and overlooking the town, making it a prominent feature in the area.",
+            "The clock is set under a sky, in front of some buildings, and is located on the street. There is also a tree nearby.",
+            "The clock is set on a pole or street light in the middle of a city.",
+            "The clock is situated on the corner of a tree-lined street, standing next to a building. It is under a blue sky and appears to be in an industrial area."
+        ],
+        "beam_text:": [
+            "The setting of the clock is outdoors, in front of a building.",
+            "The setting of the clock is outdoors, in front of a building."
+        ]
+    },
+    "2367258.jpg": {
+        "top_k_text": [
+            "The giraffe is standing on its two hooves and looking outside the car window, looking down into the car from above through the passenger side view mirror.",
+            "The giraffe is standing by a vehicle while looking out of the car window. As seen from the angle of the sun, the vehicle could be described as an SUV.",
+            "The giraffe is sitting under the sky and looking through the sunshine on a blue and cloudy day.",
+            "The giraffe is standing next to a car and looking out of the vehicle's window."
+        ],
+        "beam_text:": [
+            "The giraffe is sticking its head out of the sunroof of a car.",
+            "The giraffe is sticking its head out of the sunroof of a car."
+        ]
+    },
+    "2317520.jpg": {
+        "top_k_text": [
+            "There are four bears in the image.",
+            "There are four bears in the image.",
+            "There are five grizzly bears in the image.",
+            "There are four bears in the image."
+        ],
+        "beam_text:": [
+            "There are five bears in the image.",
+            "There are five bears in the image."
+        ]
+    },
+    "2350170.jpg": {
+        "top_k_text": [
+            "The accent of the room is brown.",
+            "The accent of the room is brown.",
+            "The accent of the room is dark wood and lighter tan elements, such as the brown tray in the center of the room.",
+            "The accent of the room is a grey accent wall."
+        ],
+        "beam_text:": [
+            "The accent of the room is brown.",
+            "The accent of the room is brown."
+        ]
+    },
+    "3037.jpg": {
+        "top_k_text": [
+            "There are several cars parked in the image, but I cannot provide an exact count without more information.",
+            "There is a group of cars and one car pulling away from a street in the image, so the total number of cars, including both those pulling away and stationary on the street, is one car + 8 cars on the street + 1",
+            "There are several cars parked on the street, but without a specific number, it is safe to say there is more than one car visible in the image.",
+            "There are seven cars parked in the image."
+        ],
+        "beam_text:": [
+            "There are six cars in the image.",
+            "There are six cars in the image."
+        ]
+    },
+    "2417821.jpg": {
+        "top_k_text": [
+            "The man is wearing a gray shirt.",
+            "The man is wearing a white shirt and jeans.",
+            "The man is wearing a shirt, jeans, and sneakers.",
+            "The man is wearing a white shirt."
+        ],
+        "beam_text:": [
+            "The man is wearing a white shirt.",
+            "The man is wearing a white shirt."
+        ]
+    },
+    "2316995.jpg": {
+        "top_k_text": [
+            "The bird's silhouette resembles an eagle flying in the air.",
+            "The bird's silhouette is elongated, indicating that it is a thin and long-legged bird like a stork. This shape allows the bird to be visible against the backdrop of the sky, water, and the blue",
+            "The bird has a silhouette that is black and gray in color, making it look like a dark and silhouetted figure.",
+            "The bird's silhouette is the shape of its body, wings, and legs, as it is shown dark, against the light background of the water."
+        ],
+        "beam_text:": [
+            "The bird's silhouette is that of a crane.",
+            "The bird's silhouette is that of a crane."
+        ]
+    },
+    "2389427.jpg": {
+        "top_k_text": [
+            "There are 9 cows in the image.",
+            "Since I can see there is a herd of cows in the image, it is safe to assume that there are multiple cows. However, I cannot provide a specific number without more information or a clear view of the image.",
+            "I cannot determine an exact number of cows from the image description. However, it is stated that there are \"many\" of them, which implies a significant number of cows are present.",
+            "There is a small group of cows in the image, which suggests several cows, but I cannot provide an exact count."
+        ],
+        "beam_text:": [
+            "There are six cows in the image.",
+            "There are six cows in the image."
+        ]
+    },
+    "2355976.jpg": {
+        "top_k_text": [
+            "The zebra is eating some green grass near a watering hole.",
+            "The zebra is eating green grass inside a pen.",
+            "The zebra is eating grass in a sandy area, bending his neck while grazing.",
+            "The zebra is resting on hay in an open pen or field."
+        ],
+        "beam_text:": [
+            "The zebra is eating grass.",
+            "The zebra is eating grass."
+        ]
+    },
+    "2413455.jpg": {
+        "top_k_text": [
+            "There is a shiny appliance refrigerator on the right side of the kitchen.",
+            "A refrigerator freezer is on the right side of the kitchen.",
+            "The appliance on the right side of the kitchen is a freezer.",
+            "The appliance on the right side of the kitchen is a refrigerator."
+        ],
+        "beam_text:": [
+            "The appliance on the right side of the kitchen is a refrigerator.",
+            "The appliance on the right side of the kitchen is a refrigerator."
+        ]
+    },
+    "2353358.jpg": {
+        "top_k_text": [
+            "There are two boats in the water.",
+            "There are a couple of boats in the water, docked or anchored.",
+            "There are two boats parked in the water.",
+            "There are two boats in the image."
+        ],
+        "beam_text:": [
+            "There are two boats in the image.",
+            "There are two boats in the image."
+        ]
+    },
+    "2377647.jpg": {
+        "top_k_text": [
+            "The woman is wearing blue clothing.",
+            "The woman is wearing a black jacket and blue jeans or a blue shirt, depending on the interpretation shown in the image.",
+            "The woman is wearing blue jeans and holding an umbrella in her hand.",
+            "The woman is wearing black clothing with a blue skirt."
+        ],
+        "beam_text:": [
+            "The woman is wearing a black shirt and blue jeans.",
+            "The woman is wearing a black shirt and blue jeans."
+        ]
+    },
+    "2325374.jpg": {
+        "top_k_text": [
+            "There are three ducks in the image.",
+            "There are three ducks in the image.",
+            "There are three ducks in the image.",
+            "There are three little ducks in the image."
+        ],
+        "beam_text:": [
+            "There are three ducks in the image.",
+            "There are three ducks in the image."
+        ]
+    },
+    "2341872.jpg": {
+        "top_k_text": [
+            "The person is wearing a wetsuit.",
+            "The person is wearing a wet suit while surfing.",
+            "The person is wearing a wetsuit.",
+            "The person is wearing a black swimsuit."
+        ],
+        "beam_text:": [
+            "The person is wearing a black wetsuit.",
+            "The person is wearing a black wetsuit."
+        ]
+    },
+    "2414979.jpg": {
+        "top_k_text": [
+            "There are two roses in the image.",
+            "There are many roses in the image, along with the flowers inside the vase.",
+            "There are twelve roses in the image.",
+            "There are several roses in the image, placed in a blue and white vase or pot."
+        ],
+        "beam_text:": [
+            "There are three roses in the image.",
+            "There are three roses in the image."
+        ]
+    },
+    "2367615.jpg": {
+        "top_k_text": [
+            "The woman is sitting on the bus, holding her large red bag, and looking at the luggage compartment. She seems to be getting ready for a trip or returning from one.",
+            "The woman is sitting down, likely on a seat or a bench, in the bus with several suitcases around her.",
+            "The woman is sitting on the bus with her luggage, possibly waiting to travel or having arrived at her destination.",
+            "The woman is sitting on the bus seat and looking down at her handbag."
+        ],
+        "beam_text:": [
+            "The woman is sitting on the bus with her luggage.",
+            "The woman is sitting on the bus with her luggage."
+        ]
+    },
+    "2397983.jpg": {
+        "top_k_text": [
+            "There is a mirror placed on the street, in particular on a metal pole.",
+            "There is a mirror on the street.",
+            "The object placed on the street is a metal frame street sign, which has a round reflective surface.",
+            "A large mirror is placed on the street."
+        ],
+        "beam_text:": [
+            "A mirror is placed on the street.",
+            "A mirror is placed on the street."
+        ]
+    },
+    "2345511.jpg": {
+        "top_k_text": [
+            "The bed in the image is twin-sized.",
+            "The size of the bed is twin.",
+            "The bed is full size.",
+            "The bed is a twin-sized bed."
+        ],
+        "beam_text:": [
+            "The bed in the image is a twin bed.",
+            "The bed in the image is a twin bed."
+        ]
+    },
+    "775.jpg": {
+        "top_k_text": [
+            "There are a couple of pedestrians in the image, specifically two people.",
+            "The image doesn't provide an exact number of pedestrians, but it does show that there are multiple people walking on the street.",
+            "There are many pedestrians in the image, including people walking along the street in front of the high-rise buildings.",
+            "As it's a street scene with a crowd of people, there could be many pedestrians in the image. However, I cannot provide an exact number without a more specific description of the image."
+        ],
+        "beam_text:": [
+            "There are two pedestrians in the image.",
+            "There are two pedestrians in the image."
+        ]
+    },
+    "713736.jpg": {
+        "top_k_text": [
+            "There are several people in the image, including both male and female servers waiting in a semi-circle.",
+            "There are six people in the image.",
+            "There are several people in the image, all involved in serving food or receiving food in the buffet line.",
+            "There are several people in the image, filling various roles of attendants and consumers, as well as some men and women standing around and eating the food."
+        ],
+        "beam_text:": [
+            "There is a group of people in the image, but the exact number cannot be determined without more specific information.",
+            "There is a group of people in the image, but the exact number cannot be determined without more specific information."
+        ]
+    },
+    "2415124.jpg": {
+        "top_k_text": [
+            "The interior of the bathroom is unique and has a modern appearance with exposed bathroom fixtures like the sink, a toilet, and a bowl-shaped design.",
+            "The interior of the bathroom is made to look like a sculpture or a piece of art. It is characterized by an unusual shape and possibly unique lighting.",
+            "The interior of the bathroom is quite unusual and has a whimsical appearance. It features rounded white archways and rounded white walls, which give it a unique and playful design.",
+            "The interior of the bathroom is an odd looking space with a toilet and sink that are shaped like shells. The bathroom contains a sink and a toilet and is painted white."
+        ],
+        "beam_text:": [
+            "The interior of the bathroom consists of a toilet and a sink.",
+            "The interior of the bathroom consists of a toilet and a sink."
+        ]
+    },
+    "2359909.jpg": {
+        "top_k_text": [
+            "The fireplace is located between the two siding entertainment units, specifically between the TV and the sound system. It is placed in front of a window.",
+            "The fireplace is located in a living room.",
+            "The fireplace is located in the living room.",
+            "The fireplace is located in a living room, specifically in a fireplace corner."
+        ],
+        "beam_text:": [
+            "The fireplace is located in a living room.",
+            "The fireplace is located in a living room."
+        ]
+    },
+    "2372481.jpg": {
+        "top_k_text": [
+            "There is a breakfast sandwich made up to look like a sandwich on a plate.",
+            "A sandwich or a breakfast sandwich, which could be mistaken for a burger, is on the plate.",
+            "There is a breakfast sandwich on the plate.",
+            "The plate has sandwiches and bacon on top of a sandwich."
+        ],
+        "beam_text:": [
+            "There is a sandwich on the plate.",
+            "There is a sandwich on the plate."
+        ]
+    },
+    "2363491.jpg": {
+        "top_k_text": [
+            "The giraffe is walking around and exploring its zoo enclosure, which is fenced-in.",
+            "The giraffe is walking across a dirt pen area within a zoo, passing by some dead trees and rocks.",
+            "The giraffe is standing by a large log, interacting with a fallen tree, and appears to be exploring the area.",
+            "The giraffe in the image is walking, standing on a dirt ground and roaming through a zoo exhibit. There may be other animals and grassy areas within this exhibit as well."
+        ],
+        "beam_text:": [
+            "The giraffe in the image is walking across a dirt field.",
+            "The giraffe in the image is walking across a dirt field."
+        ]
+    },
+    "2354541.jpg": {
+        "top_k_text": [
+            "The boy is cutting carrots for some food at the counter, standing in front of a cutting board, and possibly working in the kitchen with mom or cooking with his mom.",
+            "The boy is cutting up carrots on the counter, using a cutting board.",
+            "The boy is cutting up vegetables at the counter using a knife.",
+            "The boy is preparing food at the counter, working on chopping vegetables such as carrots."
+        ],
+        "beam_text:": [
+            "The boy is cutting carrots on a cutting board at the kitchen counter.",
+            "The boy is cutting carrots on a cutting board at the kitchen counter."
+        ]
+    },
+    "4300.jpg": {
+        "top_k_text": [
+            "A flower arrangement is placed on top of the table.",
+            "There is a large vase of flowers on top of the table.",
+            "On top of the table, there is a vase filled with flowers.",
+            "A vase full of flowers is sitting on top of the table."
+        ],
+        "beam_text:": [
+            "There is a vase of flowers on top of the table.",
+            "There is a vase of flowers on top of the table."
+        ]
+    },
+    "2374880.jpg": {
+        "top_k_text": [
+            "The person is cutting cat nails nearby the window, using a pair of scissors to trim the cat's paw nails.",
+            "The person, likely the cat owner, is tending to their cat by cutting its claws using a scissors indoors by a window.",
+            "The person is holding a pair of scissors and making a fuss over the cat near a large window.",
+            "The person is holding open scissors near the cat, and they might be trimming the cat's fur or playing with the cat while having a paw play session near a window."
+        ],
+        "beam_text:": [
+            "The person is holding a pair of scissors near the cat.",
+            "The person is holding a pair of scissors near the cat."
+        ]
+    },
+    "2348988.jpg": {
+        "top_k_text": [
+            "There are many birds flying in the sky, with numerous kites also present in the air.",
+            "The image portrays hundreds, if not thousands, of birds in the sky. However, I cannot specifically count the exact number of birds present in the scene.",
+            "There are many birds flying in the sky, creating a lively atmosphere.",
+            "There are several doves flying in the sky."
+        ],
+        "beam_text:": [
+            "There are hundreds of birds flying in the sky.",
+            "There are hundreds of birds flying in the sky."
+        ]
+    },
+    "2361246.jpg": {
+        "top_k_text": [
+            "The living room is accented with dark wood flooring and a fireplace.",
+            "The accent in the living room is the presence of a grand piano, which adds elegance and sophistication to the space.",
+            "The accent in the living room is music, which can be seen in several forms, such as the baby grand piano and the classical music theme.",
+            "The living room accent is a harp."
+        ],
+        "beam_text:": [
+            "The accent in the living room is a grand piano.",
+            "The accent in the living room is a grand piano."
+        ]
+    },
+    "2342490.jpg": {
+        "top_k_text": [
+            "The TV setting is on static.",
+            "The TV is sitting in a fenced-in field, and it is on with the lights on, indicating that it's turned on.",
+            "The TV is set to channel 1.",
+            "The TV is set to channel 3."
+        ],
+        "beam_text:": [
+            "The TV is set to channel 3.",
+            "The TV is set to channel 3."
+        ]
+    },
+    "2335154.jpg": {
+        "top_k_text": [
+            "The person on the skateboard is performing a trick, jumping onto a ramp and possibly getting airborne during the trick.",
+            "The person on the skateboard is performing a trick, jumping with the skateboard up in the air and riding it halfway in the slope of a skate ramp.",
+            "The person on the skateboard is performing a trick, which involves going down a hill ramp or jumping off a boulder.",
+            "The person is performing a trick on their skateboard, jumping and flying through the air while on the sloped rail."
+        ],
+        "beam_text:": [
+            "The person on the skateboard is performing a trick on a ramp at a skate park.",
+            "The person on the skateboard is performing a trick on a ramp at a skate park."
+        ]
+    },
+    "2340559.jpg": {
+        "top_k_text": [
+            "There are three airplanes on the runway.",
+            "There are a few airplanes on the runway in the image.",
+            "There are two airplanes on the runway.",
+            "There are three airplanes on the runway."
+        ],
+        "beam_text:": [
+            "There are three airplanes on the runway.",
+            "There are three airplanes on the runway."
+        ]
+    },
+    "2335873.jpg": {
+        "top_k_text": [
+            "Since the image is described as a \"city wall clock\" with multiple clocks, it can be safely inferred that there are several cities shown on the clock. However, without specific information about the exact number of cities, we cannot provide a precise",
+            "There are six cities in the image.",
+            "The image displays sixteen large metal clock faces, so there are sixteen cities displayed. However, you may also interpret the photo as showing either the clocks on a wooden wall or a wall full of clocks set to different times.",
+            "There are four cities in the image: Los Angeles, New York, Chicago, and Buenos Aires."
+        ],
+        "beam_text:": [
+            "There are six cities in the image.",
+            "There are six cities in the image."
+        ]
+    },
+    "2389510.jpg": {
+        "top_k_text": [
+            "The object displayed on the pole is a sign regarding wheel control on the sidewalk.",
+            "The object displayed on the pole is a street sign showing different symbols that represent various rules for parking, stopping, and wheel control.",
+            "The object displayed on the pole is a traffic sign indicating a pedestrian walkway crossing area.",
+            "The object displayed on the pole is a street sign."
+        ],
+        "beam_text:": [
+            "The object displayed on the pole is a street sign.",
+            "The object displayed on the pole is a street sign."
+        ]
+    },
+    "2371715.jpg": {
+        "top_k_text": [
+            "The animal, either a donkey, a horse, or a caravan of working animals, depending on the perspective, is pulling a cart or a wagon down the road.",
+            "The animal, a horse, is pulling a cart or carriage with fruit, fruits, and vegetables piled on it.",
+            "The animal, a brown horse, is pulling a big wooden wagon or cart down a street.",
+            "The animal, which is a horse, is pulling a cart containing various types of fruits and vegetables in a city street."
+        ],
+        "beam_text:": [
+            "The animal, a horse, is pulling a cart down the street.",
+            "The animal, a horse, is pulling a cart down the street."
+        ]
+    },
+    "2316277.jpg": {
+        "top_k_text": [
+            "The object located on the desk is a computer with a monitor, keyboard, and mouse, along with various other computer accessories.",
+            "The object located on the desk is a computer monitor or a TV connected to a computer.",
+            "The object located on the desk is an old computer monitor.",
+            "A computer, specifically a desktop computer, is located on the desk."
+        ],
+        "beam_text:": [
+            "The object located on the desk is a computer monitor.",
+            "The object located on the desk is a computer monitor."
+        ]
+    },
+    "2356336.jpg": {
+        "top_k_text": [
+            "The tray contains a variety of food items, including rice, vegetables, fruits, and different curries placed in different compartments, or wells, separated by dividers.",
+            "On the tray, there is a variety of food served in four compartments. The food includes rice, soup, and several other dishes, making it a diverse and well-rounded meal.",
+            "The tray is full of different plates and bowls containing various types of food. There are several plates with chili, sliced meat, flies, rice, soup, sauce, and noodles, all offering a",
+            "The tray has a serving of different types of food, including sauces, bread, and possibly other dishes such as rice, mashed potatoes, or soup."
+        ],
+        "beam_text:": [
+            "The tray is filled with a variety of food, including rice, vegetables, and sauces.",
+            "The tray is filled with a variety of food, including rice, vegetables, and sauces."
+        ]
+    },
+    "2365228.jpg": {
+        "top_k_text": [
+            "The person is looking at their phone, likely texting or interacting closely with it.",
+            "The person is holding the phone in their hand and looking at the screen. It could be for various reasons, such as using apps, messaging, or browsing the internet.",
+            "The person is using their thumb and forefinger to press a button on the phone.",
+            "The person is touching or holding a cell phone while looking at another object or using their other hand for guidance, possibly performing an action such as navigating on the phone, texting or calling."
+        ],
+        "beam_text:": [
+            "The person is holding a cell phone and pressing buttons on it.",
+            "The person is holding a cell phone and pressing buttons on it."
+        ]
+    },
+    "2371440.jpg": {
+        "top_k_text": [
+            "The dog is laying down on the surfboard and is sitting on top of a homemade dog bed, which is shaped like an overturned plastic cooler.",
+            "The dog is laying down on the surfboard, sitting or reclining comfortably, and posing on the boxy-shaped skateboard.",
+            "The dog is positioned sitting on top of a broken surfboard in the image.",
+            "The dog is laying down on top of the surfboard and even sitting up on it in some parts of the image."
+        ],
+        "beam_text:": [
+            "The dog is sitting on top of the surfboard.",
+            "The dog is sitting on top of the surfboard."
+        ]
+    },
+    "2349604.jpg": {
+        "top_k_text": [
+            "The material of the toilet is made of ceramic.",
+            "The material of the toilet is tiled, with the basin being made of white stone.",
+            "The toilet is made of wood.",
+            "The material of the toilet is ceramic."
+        ],
+        "beam_text:": [
+            "The toilet is made of porcelain.",
+            "The toilet is made of porcelain."
+        ]
+    },
+    "4503.jpg": {
+        "top_k_text": [
+            "The building is located in the grass.",
+            "The building is located at the edge of a graveyard.",
+            "The building is located at the end of a lane between other buildings, in what appears to be a courtyard.",
+            "The building is located in a European city."
+        ],
+        "beam_text:": [
+            "The building is located in a cemetery.",
+            "The building is located in a cemetery."
+        ]
+    },
+    "2358373.jpg": {
+        "top_k_text": [
+            "The accent of the room is wood, which adds a warm and cozy feel to the living space.",
+            "The main accent of the room is blue, giving it a unique and eye-catching color scheme, along with white walls.",
+            "The accent of the room is marble elements, including a marble fireplace and a marble mantle.",
+            "The accent of the room is a peach or cream design on the ceiling and walls."
+        ],
+        "beam_text:": [
+            "The accent of the room is wood.",
+            "The accent of the room is wood."
+        ]
+    },
+    "2410790.jpg": {
+        "top_k_text": [
+            "The setting of the chair is a city street or alleyway, as it is sitting on a brick or stone sidewalk.",
+            "The chair is set on a sidewalk, outside, and on the bricks of a city street.",
+            "The chair is placed along a stone pathway next to plants and sitting on cobblestone. In the image, the cat is seen sitting on the chair, surrounded by greenery.",
+            "The chair is set outdoors, in a cobblestone courtyard with small side streets and some plants."
+        ],
+        "beam_text:": [
+            "The setting of the chair is a cobblestone street.",
+            "The setting of the chair is a cobblestone street."
+        ]
+    },
+    "713797.jpg": {
+        "top_k_text": [
+            "The type of bread in the image is sesame pretzel bread.",
+            "The type of bread in the image is pita bread.",
+            "The type of bread in the image is Italian dough bread.",
+            "The bread is sourdough, which is typically made using a fermented starter culture (yeast-free dough) and is known for its strong and tangy flavor."
+        ],
+        "beam_text:": [
+            "The type of bread in the image is pita bread.",
+            "The type of bread in the image is pita bread."
+        ]
+    },
+    "2357216.jpg": {
+        "top_k_text": [
+            "The truck is parked on the beach.",
+            "The truck is parked on a brick road near the water, which could be on a lake or in a city setting depending on the specific context.",
+            "The truck is located in front of a store or facility, sitting in the dirt and surrounded by a wooden fence.",
+            "The truck is parked in an outdoor setting on a brick lot, next to a picnic area or a brick walkway."
+        ],
+        "beam_text:": [
+            "The truck is located in a parking lot.",
+            "The truck is located in a parking lot."
+        ]
+    },
+    "2407298.jpg": {
+        "top_k_text": [
+            "There are boxes on the left side of the bed.",
+            "There is a computer keyboard sitting on the left side of the bed.",
+            "There is a box on the left side of the bed, sitting next to the blankets.",
+            "On the left side of the bed, there is a laptop computer along with some electronics that have been emptied out of the boxes."
+        ],
+        "beam_text:": [
+            "There is a keyboard on the left side of the bed.",
+            "There is a keyboard on the left side of the bed."
+        ]
+    },
+    "2360297.jpg": {
+        "top_k_text": [
+            "The street signs are standing next to a highway, at the intersection of St. McMillan Road and Sylvan Avenue.",
+            "The street signs are located at an intersection, with one sign sitting above the other.",
+            "The street signs are located on a street corner in the trees, with some falling leaves around them.",
+            "The street signs are located at an intersection, with the street names being \"Salyn McMillan St.\""
+        ],
+        "beam_text:": [
+            "The street signs are located at an intersection.",
+            "The street signs are located at an intersection."
+        ]
+    },
+    "2325943.jpg": {
+        "top_k_text": [
+            "The woman is wearing a blue jacket or coat, riding pants, and a helmet, which is essential for her safety while riding the horse.",
+            "The woman is wearing a blue jacket and riding boots while horseback riding.",
+            "The woman is wearing a blue shirt and a helmet while on a horse.",
+            "The woman is wearing a blue sweater and riding boots."
+        ],
+        "beam_text:": [
+            "The woman is wearing a blue jacket while riding the horse.",
+            "The woman is wearing a blue jacket while riding the horse."
+        ]
+    },
+    "2395287.jpg": {
+        "top_k_text": [
+            "The woman is standing in the kitchen, leaning on a counter while looking out through a kitchen window. She appears to be observing the dining table and the other people in the room.",
+            "The woman is standing in the kitchen at night, possibly preparing something to eat.",
+            "The woman in the kitchen is standing in front of a stove with her hands on her hips, as if giving her attention to something or waiting.",
+            "The woman is in the kitchen, wearing red pants and red heels. She appears to be standing over the stove and kitchen sink, possibly preparing a meal or going about kitchen tasks."
+        ],
+        "beam_text:": [
+            "The woman is standing in the kitchen, leaning against the counter, and posing for a picture.",
+            "The woman is standing in the kitchen, leaning against the counter, and posing for a picture."
+        ]
+    },
+    "2416843.jpg": {
+        "top_k_text": [
+            "There are 23 bananas on the plate.",
+            "There are 8 bananas on the plate.",
+            "There are seven bananas on the plate.",
+            "There are six bananas on the plate."
+        ],
+        "beam_text:": [
+            "There are twelve bananas on the plate.",
+            "There are twelve bananas on the plate."
+        ]
+    },
+    "713057.jpg": {
+        "top_k_text": [
+            "The traffic light is located above a paved street, where the lanes of traffic meet.",
+            "The traffic light is located at an intersection on a city street, hanging above the street to guide and control the flow of traffic.",
+            "The traffic light is located at a street corner, likely just before an intersection at an empty road.",
+            "The traffic light is located on the corner of a busy intersecting street in the city."
+        ],
+        "beam_text:": [
+            "The traffic light is located at an intersection in a city.",
+            "The traffic light is located at an intersection in a city."
+        ]
+    },
+    "2407987.jpg": {
+        "top_k_text": [
+            "There are three people playing the game, including two boys trying to catch the ball.",
+            "There are many people playing the game.",
+            "There are three people playing the game.",
+            "Multiple people are playing the game, as indicated by the statements that there are \"multiple persons\" playing or \"a bunch of boys\" participating in the game."
+        ],
+        "beam_text:": [
+            "There are three people playing the game.",
+            "There are three people playing the game."
+        ]
+    },
+    "2394797.jpg": {
+        "top_k_text": [
+            "The bowl contains a combination of vegetables and noodles, offering a healthy meal option.",
+            "The bowl contains various ingredients, including noodles, peas, and carrots.",
+            "The bowl is filled with a mixture of peas, noodles, and shredded meat, suggesting it could be a combination of carrots and chicken in the dish.",
+            "The bowl contains noodles, peas, carrots, and onions."
+        ],
+        "beam_text:": [
+            "The bowl contains noodles, peas, and carrots.",
+            "The bowl contains noodles, peas, and carrots."
+        ]
+    },
+    "2318422.jpg": {
+        "top_k_text": [
+            "Since the image description does not explicitly state the number of cars on the left side of the street, I can't provide a specific number.",
+            "There are four cars on the left side of the street.",
+            "There is only one car on the left side of the street.",
+            "There are three cars on the left side of the street."
+        ],
+        "beam_text:": [
+            "There are two cars on the left side of the street.",
+            "There are two cars on the left side of the street."
+        ]
+    },
+    "2361505.jpg": {
+        "top_k_text": [
+            "The person, a woman, is brushing her teeth while looking at the camera.",
+            "The person is brushing their teeth while looking into the camera.",
+            "The person, a woman, is brushing her teeth while looking at the camera.",
+            "The person is brushing their teeth in front of the camera, which shows the toothbrush and toothpaste they are using."
+        ],
+        "beam_text:": [
+            "The person is brushing her teeth while looking at the camera.",
+            "The person is brushing her teeth while looking at the camera."
+        ]
+    },
+    "2394221.jpg": {
+        "top_k_text": [
+            "The man is sitting on a couch and holding a remote control to his chest.",
+            "The man is holding a red book in his lap, with a laptop in front of him.",
+            "The man is using a laptop while sitting on the couch, with a book or menu in front of it.",
+            "The man is holding a box with a map on it in his laptop grotto and is using his laptop while working on the map."
+        ],
+        "beam_text:": [
+            "The man is holding a laptop on his lap while sitting on a couch.",
+            "The man is holding a laptop on his lap while sitting on a couch."
+        ]
+    },
+    "2732.jpg": {
+        "top_k_text": [
+            "There are multiple boats in the image, including sailboats. The exact number cannot be determined, but there is a notable collection of boats.",
+            "There are numerous boats in the area where people are gathering on a pier.",
+            "There are several boats docked in the ocean.",
+            "There are several boats visible in the image, including a fishing vessel."
+        ],
+        "beam_text:": [
+            "There are several boats docked in the harbor.",
+            "There are several boats docked in the harbor."
+        ]
+    },
+    "1409.jpg": {
+        "top_k_text": [
+            "There is a bar on the side of the street, which is visible from the car driving by.",
+            "On the side of the street, there are tall green buildings, brick buildings, and a red sign. This suggests that the street is in an urban setting with various architectural styles and forms of commercial structures.",
+            "On the side of the street, there is a brick building with a restaurant-type business sign or a saloon type sign. These buildings may also appear to be old-fashioned in style.",
+            "On the side of the street, there is a row of buildings, one of which has a neon sign, indicating that it could be a bar or other types of establishments."
+        ],
+        "beam_text:": [
+            "On the side of the street, there is a building with a neon sign.",
+            "On the side of the street, there is a building with a neon sign."
+        ]
+    },
+    "2336503.jpg": {
+        "top_k_text": [
+            "There are two children sitting at the dining table.",
+            "There are two children sitting at the dining table.",
+            "There are two children sitting at the dining table.",
+            "There are two children sitting at the dining table, a girl and a little boy."
+        ],
+        "beam_text:": [
+            "There are two children sitting at the dining table.",
+            "There are two children sitting at the dining table."
+        ]
+    },
+    "2363014.jpg": {
+        "top_k_text": [
+            "The girl is sitting on a bench or a cushion, wearing a suit and smiling. She is also talking on her cell phone while holding cute decorations, such as Hello Kitty keychains, and wearing",
+            "The young girl is sitting on a couch or in a chair while talking on her cell phone.",
+            "The girl is sitting next to an orange wall and talking on her cell phone, laughing and smiling as she engages in the conversation.",
+            "The girl is sitting and smiling while holding a cell phone, talking on the device. She also has an assortment of toy plush keys hanging from her shirt buttons."
+        ],
+        "beam_text:": [
+            "The girl is sitting down and talking on her cell phone.",
+            "The girl is sitting down and talking on her cell phone."
+        ]
+    },
+    "2354306.jpg": {
+        "top_k_text": [
+            "There are two traffic lights in the scene, both hanging above a street.",
+            "There are two traffic lights in the image.",
+            "There are multiple traffic lights in the scene, with three being clearly visible on the street corner. This suggests that the traffic lights are placed at different points, providing clear direction and control for drivers and pedestrians.",
+            "There are four traffic lights in the scene, hanging from a steel walkway and attached to a building in the city."
+        ],
+        "beam_text:": [
+            "There are two traffic lights in the scene.",
+            "There are two traffic lights in the scene."
+        ]
+    },
+    "2385363.jpg": {
+        "top_k_text": [
+            "The man is performing a kickflip on his skateboard on the sidewalk outside of a building.",
+            "The man is performing a skateboard trick, where he jumps into the air with his skateboard.",
+            "The man is performing a skateboarding trick, which involves being in mid-air while riding his skateboard on a sidewalk outside of a brick building. It looks like he is flying through the air as he finishes one of",
+            "The man is performing a trick on a skateboard while in the air, jumping over the sidewalk."
+        ],
+        "beam_text:": [
+            "The man is jumping in the air while riding a skateboard.",
+            "The man is jumping in the air while riding a skateboard."
+        ]
+    },
+    "2323991.jpg": {
+        "top_k_text": [
+            "The bird is a large turkey-like bird, but it is not possible to determine its exact size without comparing it to a reference. However, we can confidently say it is a big bird by most people's standards.",
+            "The bird is of a large size, as it is described as a turkey in one sentence and an ostrich in another. So, it is either a turkey or an ostrich that can be described as a large bird.",
+            "The bird is a large turkey that takes up a significant portion of the bench it is sitting on.",
+            "The bird is a large turkey that occupies a considerable portion of the wooden bench's width."
+        ],
+        "beam_text:": [
+            "The bird is large in size.",
+            "The bird is large in size."
+        ]
+    },
+    "2324475.jpg": {
+        "top_k_text": [
+            "There are eight bicycles parked together outside a store.",
+            "There are three bicycles in the image.",
+            "There are several bicycles parked together in the image.",
+            "There are several bicycles, with a couple of them being noticeable in the image."
+        ],
+        "beam_text:": [
+            "There are three bicycles in the image.",
+            "There are three bicycles in the image."
+        ]
+    },
+    "2367402.jpg": {
+        "top_k_text": [
+            "The pole is stuck in the ground.",
+            "The pole is stuck upright in the grass near a red fire hydrant.",
+            "The pole is leaning sideways in a grassy area.",
+            "The pole is sticking out from the ground on its side."
+        ],
+        "beam_text:": [
+            "The pole is sticking out of the ground.",
+            "The pole is sticking out of the ground."
+        ]
+    },
+    "2099.jpg": {
+        "top_k_text": [
+            "The chair is located on a balcony, possibly situated in a backyard or a deck overlooking a city.",
+            "The chair is located on a deck of a house, placed under a brick outdoor heater. It is situated outside in the area.",
+            "The chair is located on a deck, which is outdoors on a patio or balcony.",
+            "The chair is located on a balcony or porch near a brick patio."
+        ],
+        "beam_text:": [
+            "The chair is located on a deck.",
+            "The chair is located on a deck."
+        ]
+    },
+    "2413073.jpg": {
+        "top_k_text": [
+            "The boy is wearing a shirt, tie, and suit jacket. He appears to be dressed up in formal or semi-formal attire.",
+            "The boy is wearing a dress shirt, tie, and loafers, which can also be considered as a dressy outfit.",
+            "The boy is wearing a shirt and tie, creating a formal appearance.",
+            "The boy is wearing a white shirt, a black and gray tie, and possibly a suit or dress pants, making him look fancy. He is standing next to a hanging green lampshade."
+        ],
+        "beam_text:": [
+            "The boy is wearing a shirt and tie.",
+            "The boy is wearing a shirt and tie."
+        ]
+    },
+    "2335234.jpg": {
+        "top_k_text": [
+            "There are a lot of people in the crowd watching the tennis players, which implies a high number of spectators. However, without an exact count, it is not possible to provide a specific number of spectators.",
+            "There is a crowd of people in the image, but without an exact number, we can say that there is a significant number of spectators, possibly ranging from a few hundred to several thousands.",
+            "There are dozens of spectators present in the image, watching the tennis match. The exact number is difficult to provide, but it is clear that there are many people attending the game.",
+            "The image shows a big crowd of spectators watching the tennis players. However, due to the limitations of counting individual heads in the image, an exact number of spectators cannot be provided. The number of spectators appears to be substantial, as they"
+        ],
+        "beam_text:": [
+            "There are hundreds of spectators in the image.",
+            "There are hundreds of spectators in the image."
+        ]
+    },
+    "2408569.jpg": {
+        "top_k_text": [
+            "The pizza is sliced in triangles.",
+            "The pizza is sliced into very large pieces.",
+            "The pizza is sliced into triangles.",
+            "The pizza is sliced into even sixths."
+        ],
+        "beam_text:": [
+            "The pizza is sliced into triangles.",
+            "The pizza is sliced into triangles."
+        ]
+    },
+    "2329508.jpg": {
+        "top_k_text": [
+            "There are two players in the image.",
+            "There are four players in the image - two players are dunking and two others are chasing the basketball.",
+            "There are four players in the image.",
+            "There are three players in the image."
+        ],
+        "beam_text:": [
+            "There are three players in the image.",
+            "There are three players in the image."
+        ]
+    },
+    "2373423.jpg": {
+        "top_k_text": [
+            "There are four skis visible in the image.",
+            "There are four skis.",
+            "There are four skis in the image.",
+            "There are four skis visible in the image."
+        ],
+        "beam_text:": [
+            "There are four skis in the image.",
+            "There are four skis in the image."
+        ]
+    },
+    "2319018.jpg": {
+        "top_k_text": [
+            "There are multiple kites flying high over the water in the image.",
+            "There are five kites flying in the sky.",
+            "There are two kites visible in the image.",
+            "There are four kites in the image."
+        ],
+        "beam_text:": [
+            "There are four kites in the image.",
+            "There are four kites in the image."
+        ]
+    },
+    "2411128.jpg": {
+        "top_k_text": [
+            "The woman is wearing short shorts.",
+            "The woman is wearing a white coat while riding her bicycle.",
+            "The woman is wearing a white jacket while riding her bike.",
+            "The woman is wearing a white shirt and is riding her bicycle on the street."
+        ],
+        "beam_text:": [
+            "The woman is wearing a white jacket.",
+            "The woman is wearing a white jacket."
+        ]
+    },
+    "2400697.jpg": {
+        "top_k_text": [
+            "The man is wearing a blue shirt, a necktie, and a pair of pants.",
+            "The man is wearing a blue shirt and a tie.",
+            "The man is wearing a blue shirt, a tie, and a black belt.",
+            "The man is wearing a white and blue striped tie, a shirt, and a suit."
+        ],
+        "beam_text:": [
+            "The man is wearing a blue shirt and tie.",
+            "The man is wearing a blue shirt and tie."
+        ]
+    },
+    "2406097.jpg": {
+        "top_k_text": [
+            "The bench is painted in yellow and green colors.",
+            "The bench has a Florentine style accent, which reflects a traditional and ornate design common to the city of Florence.",
+            "The bench has a colorful design or mosaic decoration on it.",
+            "The accent on the bench is the combination of yellow and white ceramic tile designs, which makes it stand out and give an artistic and aesthetic touch to the street setting."
+        ],
+        "beam_text:": [
+            "The accent on the bench is a mosaic design.",
+            "The accent on the bench is a mosaic design."
+        ]
+    },
+    "2396878.jpg": {
+        "top_k_text": [
+            "There are three benches.",
+            "There are four benches in the scene.",
+            "There are four neatly arranged benches lined up on the street.",
+            "There are three benches in the image."
+        ],
+        "beam_text:": [
+            "There are four benches in the image.",
+            "There are four benches in the image."
+        ]
+    },
+    "2410437.jpg": {
+        "top_k_text": [
+            "There are five cars in the image.",
+            "In the image, two cars and one bus are crossing the street at a traffic light in London.",
+            "There are two cars in the image.",
+            "There is one car visible in the image, along with several double-decker buses."
+        ],
+        "beam_text:": [
+            "There are two cars in the image.",
+            "There are two cars in the image."
+        ]
+    },
+    "2365747.jpg": {
+        "top_k_text": [
+            "There are three parking meters in the image.",
+            "There are several parking meters in the image, lined up in a row.",
+            "There is a row of three parking meters next to each other in the image.",
+            "There are three parking meters on the street."
+        ],
+        "beam_text:": [
+            "There are three parking meters in the image.",
+            "There are three parking meters in the image."
+        ]
+    },
+    "2343418.jpg": {
+        "top_k_text": [
+            "The man is talking or looking at something in the water. Specifically, he is observing a large bear, which is swimming or walking in the water near the beach.",
+            "The man is standing near the water, looking at an animal (either a cow or a black bear) in the body of water. He seems to be admiring the animals or observing their natural behavior.",
+            "The man, also known as a Russian leader or politicians, is leaning on a railing overlooking the shoreline. There is a large animal or a black cow standing in the water.",
+            "The man is standing near the water, looking at the waterway and watching something in the distance, which appears to be a bear."
+        ],
+        "beam_text:": [
+            "The man is standing near the water, watching a bear swimming in the lake.",
+            "The man is standing near the water, watching a bear swimming in the lake."
+        ]
+    },
+    "2344892.jpg": {
+        "top_k_text": [
+            "The toilet is located in a public restroom, specifically a bathroom stall.",
+            "The toilet is located outside of an accessible restroom, surrounded by tiled flooring.",
+            "The toilet is located outside of a bathroom stall, on the floor of a restroom.",
+            "The toilet is located in a bathroom or an apartment, specifically, in a tiled area."
+        ],
+        "beam_text:": [
+            "The toilet is located in a public restroom.",
+            "The toilet is located in a public restroom."
+        ]
+    },
+    "2378717.jpg": {
+        "top_k_text": [
+            "The table setting features a glass vase filled with yellow daffodils.",
+            "The table setting includes a glass of orange-colored flowers placed on a wooden table.",
+            "The table setting is on a dining table or island top.",
+            "The table setting is a dining table with a vase of flowers sitting on top of it. The table is set for a meal, indicating a formal, or perhaps, romantic atmosphere."
+        ],
+        "beam_text:": [
+            "The setting of the table is a wooden dining table.",
+            "The setting of the table is a wooden dining table."
+        ]
+    },
+    "2324897.jpg": {
+        "top_k_text": [
+            "The man is playing frisbee in the park, either playing with his frisbee or making a throw.",
+            "The man in the park is playing with a flying disc (frisbee) in a clearing, preparing to throw it.",
+            "The man in the park is bending over with his arm outstretched, preparing to throw the frisbee.",
+            "The man in the black shirt is playing Frisbee in the park. He is throwing or possibly catching a Frisbee and seems to be enjoying himself."
+        ],
+        "beam_text:": [
+            "The man in the park is throwing a frisbee.",
+            "The man in the park is throwing a frisbee."
+        ]
+    },
+    "2376850.jpg": {
+        "top_k_text": [
+            "The boy is wearing a white shirt and floral shorts.",
+            "The boy is wearing a white shirt, plaid shorts, and white tennis shoes.",
+            "The boy is wearing a black and white skateboard, which appears to be an old scooter-style skateboard.",
+            "The boy is wearing a shirt and shorts while riding the skateboard."
+        ],
+        "beam_text:": [
+            "The boy is wearing a white shirt.",
+            "The boy is wearing a white shirt."
+        ]
+    },
+    "2383017.jpg": {
+        "top_k_text": [
+            "The man is leaping up and down, throwing the open umbrella above his head, while flying through the air with his feet in the air. He is holding onto the umbrella, which adds to the overall dynamic and stylish nature",
+            "The man is jumping high in the air with his umbrella open. He is performing a playful and cheerful action in mid-air, showcasing his umbrella as he goes airborne.",
+            "The man is jumping with the umbrella in action, performing a leap in front of a tall building or a tower.",
+            "The man is holding an open umbrella and leaping in the air."
+        ],
+        "beam_text:": [
+            "The man is jumping in the air while holding an open umbrella.",
+            "The man is jumping in the air while holding an open umbrella."
+        ]
+    },
+    "2350466.jpg": {
+        "top_k_text": [
+            "The intersection is located in a large city, at a high-rise building intersection.",
+            "The intersection is located in the middle of a city, at the crossing of two streets.",
+            "The intersection is situated in a large city, located in front of some buildings. It is on top of a street corner, featuring a traffic light and possibly a sign.",
+            "The location of the intersection is in a busy urban center."
+        ],
+        "beam_text:": [
+            "The intersection is located in the middle of a city, surrounded by tall buildings.",
+            "The intersection is located in the middle of a city, surrounded by tall buildings."
+        ]
+    },
+    "2199.jpg": {
+        "top_k_text": [
+            "The accent on the couch is orange.",
+            "The accent on the couch is orange.",
+            "The couch is accented with a large orange pillow and a throw blanket.",
+            "The accent on the couch is the fur-trimmed tan cushions with decorative pillows, giving it a cozy and luxurious appearance."
+        ],
+        "beam_text:": [
+            "The accent on the couch is orange.",
+            "The accent on the couch is orange."
+        ]
+    },
+    "2399163.jpg": {
+        "top_k_text": [
+            "The trash can is located in a parking lot, near a building with hedges, bushes, and trees.",
+            "The trash can is located next to a green wall, which is part of a hedge in the middle of a building. It is positioned in front of the hedge.",
+            "The trash can is located in front of a bush, under a tree, and near a sidewalk. It is also partially hidden behind the bush growth.",
+            "The trash can is located in the foreground, behind a hedge and a bush."
+        ],
+        "beam_text:": [
+            "The trash can is located in a parking lot.",
+            "The trash can is located in a parking lot."
+        ]
+    },
+    "2412709.jpg": {
+        "top_k_text": [
+            "The giraffe is sitting or standing in the tall green grass on a gentle hillside in a park setting, within a forest or a grassy field.",
+            "The giraffe is laying down in a grassy field, on a patch of grassy land.",
+            "The giraffe is sitting or resting on a grassy field.",
+            "The giraffe is sitting or laying down on a lush green hillside in a park, on some grassy ground."
+        ],
+        "beam_text:": [
+            "The giraffe is sitting or laying down in a grassy field.",
+            "The giraffe is sitting or laying down in a grassy field."
+        ]
+    },
+    "2341950.jpg": {
+        "top_k_text": [
+            "The floor is covered with various items such as clothes, winter gear, a backpack, gloves, and a few packs of snow clothes. There are also a few other clothes and gloves lying next to each other, making it quite",
+            "There is a collection of clothes, a book, passports, and various accessories on the floor. It appears to be a packed bag from a recent trip.",
+            "The floor is cluttered with random items.",
+            "The floor is cluttered with objects, including various accessories, personal belongings, and possibly traveling items."
+        ],
+        "beam_text:": [
+            "The floor is covered with a variety of items, including clothing, toiletries, and other personal belongings.",
+            "The floor is covered with a variety of items, including clothing, toiletries, and other personal belongings."
+        ]
+    },
+    "2334723.jpg": {
+        "top_k_text": [
+            "The train is located in a city, moving down train tracks.",
+            "The train is traveling through an industrial area or an industrial complex, as evidenced by nearby buildings.",
+            "The location of the train is at an intersection.",
+            "The train is located on tracks in front of several buildings, likely in an urban area."
+        ],
+        "beam_text:": [
+            "The train is located at a train station, traveling down the tracks.",
+            "The train is located at a train station, traveling down the tracks."
+        ]
+    },
+    "2417990.jpg": {
+        "top_k_text": [
+            "The atmosphere of the setting is relaxing and inviting, with multiple chairs and dining tables placed on a wooden deck overlooking a poolside. The wooden deck is furnished with blue umbrellas that provide shade, and there",
+            "The setting appears to be a social or recreational space, likely a dining area or a casual outdoor area for leisure. Several chairs and dining tables are arranged around blue umbrellas, providing shade and protection",
+            "The atmosphere of the setting seems to be that of a restaurant or outdoor cafe during the day. The image shows an outside wooden deck or terrace area with multiple dining tables and chairs, multiple blue and white awnings providing sh",
+            "The atmosphere in the setting is pleasant and inviting, suitable for outdoor gatherings and leisure. The image shows a patio area at a restaurant with several tables featuring blue umbrellas, and chairs scattered around the outdoor"
+        ],
+        "beam_text:": [
+            "The atmosphere of the setting appears to be relaxed and inviting. In the image, there is a row of outdoor dining tables and chairs with blue umbrellas, providing shade and comfort for people to enjoy their meals",
+            "The atmosphere of the setting appears to be relaxed and inviting. In the image, there is a row of outdoor dining tables and chairs with blue umbrellas, providing shade and comfort for people to enjoy their meals"
+        ]
+    },
+    "2359813.jpg": {
+        "top_k_text": [
+            "The interior of the bathroom is very nicely done, with elegant tiles, decorations, mirrors, and wooden elements that create a stylish atmosphere. It also features a large spa-like tub, double sinks, and a sun",
+            "The interior of the bathroom features an old-fashioned design, with brown accents and traditional elements. There is a marble countertop and brown mosaics on the floor. This gives the space a vintage and elegant amb",
+            "The interior of the bathroom includes a clean and luxurious-looking marble space with a large mirrored vanity and bathtub, as well as a large counter nearby. There are three sinks in the bathroom, giving it",
+            "The interior of the bathroom is very nicely decorated and adorned with many accessories and tiling in a Mediterranean motif. It features a marble counter top and two sinks."
+        ],
+        "beam_text:": [
+            "The interior of the bathroom consists of a bathtub, two sinks, and a large mirror.",
+            "The interior of the bathroom consists of a bathtub, two sinks, and a large mirror."
+        ]
+    },
+    "2369626.jpg": {
+        "top_k_text": [
+            "There are four kites in the sky.",
+            "There are three kites flying in the air.",
+            "There are five kites.",
+            "There are three kites flying in the sky."
+        ],
+        "beam_text:": [
+            "There are several kites flying in the sky.",
+            "There are several kites flying in the sky."
+        ]
+    },
+    "2360625.jpg": {
+        "top_k_text": [
+            "The bike is in a rundown and old condition, possibly broken down, parked on the sidewalk near a busy street with some tires missing.",
+            "The bike appears to be old, possibly even vintage, with an antique-looking design. It seems to be well-maintained or restored, indicating that it is still operational and visually appealing.",
+            "The bike is old and appears to be run down or in poor condition.",
+            "The bike is in poor condition, as it is described as being old, rusty, and appearing to have broken parts. Additionally, it is parked near the street, adding to its neglected appearance."
+        ],
+        "beam_text:": [
+            "The bike is old, rusted, and appears to be in poor condition.",
+            "The bike is old, rusted, and appears to be in poor condition."
+        ]
+    },
+    "2390649.jpg": {
+        "top_k_text": [
+            "There are many cows visible in the image, sitting outside and eating. An exact number of cows cannot be determined without more details, but the image features a large number of cows.",
+            "There are numerous cows in the image, forming a herd.",
+            "There are many cows in the image, forming a herd. However, the exact number cannot be provided.",
+            "There are four black and white cows in the image."
+        ],
+        "beam_text:": [
+            "There are six cows in the image.",
+            "There are six cows in the image."
+        ]
+    },
+    "2400919.jpg": {
+        "top_k_text": [
+            "The accent on the bed is the green drapes at the window.",
+            "The accent on the bed is sunlight streaming through an open window, setting the bed in a warm and comfortable atmosphere.",
+            "The accent on the bed is decorative pillows.",
+            "The accent on the bed is a floral throw pillow and a black blanket."
+        ],
+        "beam_text:": [
+            "The accent on the bed is pillows.",
+            "The accent on the bed is pillows."
+        ]
+    },
+    "2341259.jpg": {
+        "top_k_text": [
+            "The person is snow skiing downhill, skillfully navigating the snowy terrain while wearing eyeglasses.",
+            "The person is skiing and making a right turn in the snow, navigating through the snow-covered ground.",
+            "The person is skiing, making a turn while sliding down a snow-covered hill.",
+            "The person is riding skis down a snowy ski slope in a snowy winter setting."
+        ],
+        "beam_text:": [
+            "The person is skiing down a snow-covered slope.",
+            "The person is skiing down a snow-covered slope."
+        ]
+    },
+    "2370878.jpg": {
+        "top_k_text": [
+            "The pizza featured in the image is described as very large or gigantic. It covers a significant portion of the white dinner plate upon which it is placed. The close-up view of the pizza and fork further emphasizes its size in the",
+            "The pizza is quite small in size.",
+            "The pizza is described as small or individual-sized, suggesting that it is not a large pizza intended to share among multiple people.",
+            "The size of the pizza appears to be large, as seen on the white plate where it is sliced and placed on a fork."
+        ],
+        "beam_text:": [
+            "The pizza is small in size.",
+            "The pizza is small in size."
+        ]
+    },
+    "2364447.jpg": {
+        "top_k_text": [
+            "There are three sheep in the image.",
+            "There are three sheep in the image.",
+            "There are two sheep in the image.",
+            "There are three sheep in the image."
+        ],
+        "beam_text:": [
+            "There are three sheep in the image.",
+            "There are three sheep in the image."
+        ]
+    },
+    "2366831.jpg": {
+        "top_k_text": [
+            "The material of the vase is bamboo.",
+            "The vase is made of bamboo.",
+            "The vase is made of wood.",
+            "The material of the vase is bamboo."
+        ],
+        "beam_text:": [
+            "The vase is made of bamboo.",
+            "The vase is made of bamboo."
+        ]
+    },
+    "2354184.jpg": {
+        "top_k_text": [
+            "The train is blue and white in color.",
+            "The train is royal blue or teal in color. It can also be described as baby blue.",
+            "The color of the train in the image is blue.",
+            "The color of the train in the image is light blue."
+        ],
+        "beam_text:": [
+            "The color of the train is blue.",
+            "The color of the train is blue."
+        ]
+    },
+    "2390684.jpg": {
+        "top_k_text": [
+            "The man is sitting outside on a bench in a park, using his cell phone.",
+            "The man is sitting outside, wearing eyeglasses and looking at or using his cell phone.",
+            "The man is using his smartphone outside on some couches in a public setting, possibly a cafe or a restaurant.",
+            "The man is lying down on a couch or lounger outside with red glasses on, wearing a striped sweater and possibly looking at his cell phone."
+        ],
+        "beam_text:": [
+            "The man is sitting outside and looking at his cell phone.",
+            "The man is sitting outside and looking at his cell phone."
+        ]
+    },
+    "2347634.jpg": {
+        "top_k_text": [
+            "There are many boats tied together in the large harbor, forming a crowded scene. The exact number of boats is not provided, but it is evident that there is a significant number of vessels.",
+            "There are numerous boats moored together in the image. However, it is impossible to provide an exact count without more specific information about the picture.",
+            "There are several large boats floating in the marina, but the exact number cannot be determined from the image description.",
+            "There are dozens of boats in the scene. It is not possible to give an exact number without more information."
+        ],
+        "beam_text:": [
+            "There are dozens of boats in the image.",
+            "There are dozens of boats in the image."
+        ]
+    },
+    "2384473.jpg": {
+        "top_k_text": [
+            "The plane is flying over the ocean, and it appears to be in the open sky.",
+            "The plane is flying over an empty sky with a clear overcast sky and no clouds, providing a nice backdrop for the picture.",
+            "The plane is located in the air, soaring through the sky.",
+            "The location of the plane is in the sky, surrounded by a bright, blue clear sky."
+        ],
+        "beam_text:": [
+            "The plane is located in the sky.",
+            "The plane is located in the sky."
+        ]
+    },
+    "2382235.jpg": {
+        "top_k_text": [
+            "A blue car is on the left side of the street.",
+            "The car on the left side of the street is a silver Chevrolet.",
+            "There is an older car parked on the left side of the street, next to a tree and a sign.",
+            "A blue Volkswagen Beetle is on the left side of the street."
+        ],
+        "beam_text:": [
+            "There is a blue car on the left side of the street.",
+            "There is a blue car on the left side of the street."
+        ]
+    },
+    "2408460.jpg": {
+        "top_k_text": [
+            "The scene is set on a beautiful beach next to the ocean.",
+            "The scene is located at a beach by the ocean, with boats floating on the water. There are palm trees present, indicating that the beach has a tropical or warm climate.",
+            "The scene is set on a sandy beach.",
+            "The scene is taking place on a beach near a mountain. This setting is characterized by the presence of a bay, a dock, and water on one side of the mountain."
+        ],
+        "beam_text:": [
+            "The scene is located on a beach near the ocean.",
+            "The scene is located on a beach near the ocean."
+        ]
+    },
+    "2336504.jpg": {
+        "top_k_text": [
+            "The train is located by a dirt walkway, near a black railroad train track and in the sun, with green and lush trees nearby.",
+            "The train is located at a station or depot, parked on its tracks and beside an empty grassy hill.",
+            "The train is located in a small outdoor exhibit or a park of sorts, next to a street, trees, and a building.",
+            "The train is located along a sidewalk next to a road or asphalt street, which suggests it might be in an industrial area or a railway station. There is also a tree near the train."
+        ],
+        "beam_text:": [
+            "The train is located in a parking lot.",
+            "The train is located in a parking lot."
+        ]
+    },
+    "2358522.jpg": {
+        "top_k_text": [
+            "The person at the skate park is performing a fancy stunt by jumping in the air while holding on to their skateboard using only one hand.",
+            "The person at the skate park is performing a skateboard trick or maneuver by jumping in the air and kicking up some dust with their skateboard. This showcases their skill as they are seen leaping off a r",
+            "The person is riding a skateboard and jumping over a ramp at the skate park. They are either performing a trick on the ramp or jumping off of it during the night.",
+            "The person is performing tricks on a skateboard at the skate park, executing a jump in one of their attempts."
+        ],
+        "beam_text:": [
+            "The person at the skate park is performing a trick on their skateboard.",
+            "The person at the skate park is performing a trick on their skateboard."
+        ]
+    },
+    "2348672.jpg": {
+        "top_k_text": [
+            "The boat is located in the water near a city, moving down a river, and it appears to be approaching its dock with a clock tower visible in the background.",
+            "The boat is located on a river near a large city.",
+            "The boat is located on a busy river within a city, floating past a large building as part of a river cruise experience.",
+            "The boat is located on a river or canal in a city."
+        ],
+        "beam_text:": [
+            "The boat is located in a large body of water near a city.",
+            "The boat is located in a large body of water near a city."
+        ]
+    },
+    "2330673.jpg": {
+        "top_k_text": [
+            "The color of the teddy bears is brown.",
+            "The teddy bears in the display are red and brown.",
+            "The teddy bears are red.",
+            "The color of the teddy bears is red."
+        ],
+        "beam_text:": [
+            "The color of the teddy bears is red.",
+            "The color of the teddy bears is red."
+        ]
+    },
+    "2361433.jpg": {
+        "top_k_text": [
+            "The person is holding a purple teddy bear with a purple bow.",
+            "The person is holding a soft, stuffed teddy bear.",
+            "The person is holding a small stuffed purple teddy bear or teddy doll.",
+            "The person is holding a purple teddy bear."
+        ],
+        "beam_text:": [
+            "The person is holding a purple teddy bear.",
+            "The person is holding a purple teddy bear."
+        ]
+    },
+    "2399890.jpg": {
+        "top_k_text": [
+            "The men are holding tennis rackets and posing on the tennis court, possibly celebrating or preparing to play a game of tennis.",
+            "The men on the tennis court are posing for a photograph, holding their tennis rackets.",
+            "The men are standing together on the tennis court, holding their tennis rackets, and posing for a photo. They seem to be posing while holding the rackets on their either side, showcasing their equipment and enthusiasm for the",
+            "The men are posing with their tennis rackets on the court, likely after finishing a tennis practice or match. They are showing off their rackets, possibly to show appreciation for their equipment, celebrate their achievements, or promote the sport"
+        ],
+        "beam_text:": [
+            "The men are posing for a picture on the tennis court while holding their tennis rackets.",
+            "The men are posing for a picture on the tennis court while holding their tennis rackets."
+        ]
+    },
+    "2322475.jpg": {
+        "top_k_text": [
+            "The basket in the image is small, or even tiny, making it suitable for holding a few different types of food items.",
+            "The size of the basket is small.",
+            "The size of the basket is described as small, and it is likely designed for a personal snack or to hold a small assortment of food.",
+            "The basket is small in size, fitting for a dessert or snack platter."
+        ],
+        "beam_text:": [
+            "The basket is small in size.",
+            "The basket is small in size."
+        ]
+    },
+    "2383399.jpg": {
+        "top_k_text": [
+            "There are two people sitting in the chairs.",
+            "There are a total of two people sitting in the chairs.",
+            "There are two people sitting in the chairs.",
+            "There are two people sitting in the chairs."
+        ],
+        "beam_text:": [
+            "There are two people sitting in the chairs.",
+            "There are two people sitting in the chairs."
+        ]
+    },
+    "2488.jpg": {
+        "top_k_text": [
+            "The sky above the mountain range is very blue, suggesting a clear day with good visibility and favorable weather conditions.",
+            "The sky above the mountain range has a clear, blue sky, indicating favorable weather conditions for sightseeing and outdoor activities.",
+            "The sky above the mountain range is very blue.",
+            "The sky over the mountain range is blue and cloudy."
+        ],
+        "beam_text:": [
+            "The sky above the mountain range is blue and cloudy.",
+            "The sky above the mountain range is blue and cloudy."
+        ]
+    },
+    "2337784.jpg": {
+        "top_k_text": [
+            "The dog is wearing a necklace.",
+            "The dog is wearing a neck collar with its own personality.",
+            "The dog is wearing a blue leash, which is presumably being held by its owner.",
+            "The dog is wearing a harness, which could be a combination of a collar and a harness, indicating the owner's preference for a specific type of restraint for their pet."
+        ],
+        "beam_text:": [
+            "The dog is wearing a collar.",
+            "The dog is wearing a collar."
+        ]
+    },
+    "2345977.jpg": {
+        "top_k_text": [
+            "The woman is wearing traditional Indian garb, which includes a white dress with bangles around her wrists, a traditional hairstyle adorned with flowers, and jewelry.",
+            "The woman is wearing a white dress and traditional jewelry.",
+            "The woman is wearing traditional Indian attire, which includes a gold headpiece, possibly also known as a headband or a tiara.",
+            "The woman is wearing bridal jewelry, which includes earrings and a necklace with flowers on it."
+        ],
+        "beam_text:": [
+            "The woman is wearing a white dress.",
+            "The woman is wearing a white dress."
+        ]
+    },
+    "2403271.jpg": {
+        "top_k_text": [
+            "The man is sitting on a dirt road, likely near a motorcycle, and possibly standing on a motorcycle to take a picture or pose for a photo. He is positioned close to several trees, giving the impression he is in nature.",
+            "The man is standing next to a parked motorcycle in a forest setting, possibly taking a break or enjoying the scenery around him.",
+            "The man is sitting on a dirt bike, parked in a wooded area.",
+            "The man is standing next to an off-road motorcycle, posing for a picture, and sitting on the dirt bike. The motorcycle has a blue and white color scheme, and it appears to be a big motorcycle."
+        ],
+        "beam_text:": [
+            "The man is standing next to his motorcycle, posing for a picture.",
+            "The man is standing next to his motorcycle, posing for a picture."
+        ]
+    },
+    "2394657.jpg": {
+        "top_k_text": [
+            "The woman is feeding the giraffe a piece of food from her hand, over a fence, while standing in the zoo.",
+            "The woman is feeding the giraffe food, with the giraffe extending its long tongue towards her.",
+            "The woman is handfeeding a giraffe, reaching over a fence to feed the giraffe with food on her hand.",
+            "The woman is feeding a giraffe by hand, holding food or treats out of a fence."
+        ],
+        "beam_text:": [
+            "The woman is feeding the giraffe from her hand.",
+            "The woman is feeding the giraffe from her hand."
+        ]
+    },
+    "2353174.jpg": {
+        "top_k_text": [
+            "The color of the bird is green and red.",
+            "The bird is green and red.",
+            "The color of the bird in the image is green.",
+            "The color of the bird is green and red."
+        ],
+        "beam_text:": [
+            "The bird is green.",
+            "The bird is green."
+        ]
+    },
+    "2363068.jpg": {
+        "top_k_text": [
+            "The boy is described as a young boy or a kid, indicating that he is likely in his pre-teenage years.",
+            "The age of the boy cannot be determined from the image, but it's likely that he is a young child, as skateboard games and practices typically happen among children.",
+            "The boy is a young child, described as a young man in the image.",
+            "The boy is a young teenager."
+        ],
+        "beam_text:": [
+            "The boy in the image is a young child.",
+            "The boy in the image is a young child."
+        ]
+    },
+    "2339493.jpg": {
+        "top_k_text": [
+            "The dog is walking on the sandy beach, holding its tongue out and looking at the ocean while enjoying the shoreline experience.",
+            "The dog is walking down the beach, enjoying itself in the wind and sunlight.",
+            "The dog is walking on the sand at the beach, panting with a tongue out.",
+            "The dog is running down the beach and going about its business on the sandy shore."
+        ],
+        "beam_text:": [
+            "The dog is walking on the sandy beach, enjoying its time outdoors.",
+            "The dog is walking on the sandy beach, enjoying its time outdoors."
+        ]
+    },
+    "2383671.jpg": {
+        "top_k_text": [
+            "There is heavy traffic on the highway and several cars are waiting in the line at a traffic light. The presence of a lot of cars makes the scene look congested or busy.",
+            "There are many cars on the highway, causing a slow-moving mess and a significant buildup of traffic.",
+            "I cannot provide an exact number of cars, but the highway is filled with lots of cars waiting in traffic. It is a busy area with many cars waiting at an intersection.",
+            "The image shows numerous vehicles heading in both directions on the freeway, but the exact number of cars cannot be determined without more specific information."
+        ],
+        "beam_text:": [
+            "There are several cars on the highway.",
+            "There are several cars on the highway."
+        ]
+    },
+    "2346825.jpg": {
+        "top_k_text": [
+            "The man is using the laptop, likely working or browsing the internet. He is seated behind a table.",
+            "The man is sitting at a table, working on his laptop, likely engaged in a task or completing a project.",
+            "The man is sitting at a desk in front of the laptop, which indicates that he might be either working, studying, browsing the internet, or engaging in some creative or professional activity.",
+            "The man is working on his laptop, possibly focused on a presentation or giving a speech at an important event such as a wedding."
+        ],
+        "beam_text:": [
+            "The man is using the laptop, likely working or browsing the internet.",
+            "The man is using the laptop, likely working or browsing the internet."
+        ]
+    },
+    "2316144.jpg": {
+        "top_k_text": [
+            "The person, a skier, is making a sharp turn on their ski path in the snow.",
+            "The person is skiing down a snowy hill, posing for a camera on the ski slope during the day.",
+            "The person is skiing down the slope, wearing a red jacket and using ski poles for balance and navigation.",
+            "The person is skiing downhill, with one ski visible in their hand and the other still on the ground. They are wearing a red and white suit."
+        ],
+        "beam_text:": [
+            "The person is skiing down a snow-covered slope.",
+            "The person is skiing down a snow-covered slope."
+        ]
+    },
+    "2365141.jpg": {
+        "top_k_text": [
+            "There are a couple of cars in the image.",
+            "There are several cars visible in the image as they navigate the busy city street.",
+            "There are a few cars in the image, traveling on a city street.",
+            "There are three cars in the image, driving down the street."
+        ],
+        "beam_text:": [
+            "There are two cars in the image.",
+            "There are two cars in the image."
+        ]
+    },
+    "2321922.jpg": {
+        "top_k_text": [
+            "There are several players present in the image, but without an exact number or count, I can confirm that there's a \"group\" or \"lots\" of people playing tennis on the court.",
+            "There are many people in the image, including the tennis player, other tennis players, and a crowd of people watching the game.",
+            "It is not possible to provide the exact number of people in the image without more information, such as specific details about each row of spectators or seating areas within the stadium. However, it can be concluded that \"a lot of people\"",
+            "It is difficult to determine the exact number of people in the image, as it may include hundreds of individuals as spectators."
+        ],
+        "beam_text:": [
+            "There is only one person in the image, who is a tennis player.",
+            "There is only one person in the image, who is a tennis player."
+        ]
+    },
+    "2403390.jpg": {
+        "top_k_text": [
+            "The girl at the table is eating cake, specifically enjoying a piece of pink cake, and leaning in to take a bite of the cake on a plate.",
+            "The girl is sitting at a table with a piece of cake in front of her, and she seems to be eating it.",
+            "The girl is sitting in a white chair at the dining table, eating a piece of cake. She is also making a face while trying to eat it.",
+            "The girl is at the table with a plate of food, likely cake, and she has cake smeared all over her face. She is also using a plastic fork to eat from her plate."
+        ],
+        "beam_text:": [
+            "The girl is sitting at the table and eating a piece of cake.",
+            "The girl is sitting at the table and eating a piece of cake."
+        ]
+    },
+    "2391125.jpg": {
+        "top_k_text": [
+            "The object on the bicycle is a basket, which is attached to the front of the bike.",
+            "There is a basket on the bicycle.",
+            "There is a helmet on the bicycle.",
+            "The object on the bicycle is a mirror. The mirror is placed at the front of the bike."
+        ],
+        "beam_text:": [
+            "The object on the bicycle is a basket.",
+            "The object on the bicycle is a basket."
+        ]
+    },
+    "2365521.jpg": {
+        "top_k_text": [
+            "The person is wearing a red jacket and has a backpack.",
+            "The person is wearing proper skiing attire, including a red jacket, which helps him to be visible against the white background and blending in against the snowy pine trees.",
+            "The person is wearing a jacket while skiing.",
+            "The person is wearing skis while standing on a snowy slope."
+        ],
+        "beam_text:": [
+            "The person is wearing a red jacket.",
+            "The person is wearing a red jacket."
+        ]
+    },
+    "2352553.jpg": {
+        "top_k_text": [
+            "The cat in the image has its eyes closed, possibly with eyes drooping, as it sits in the room. It is in front of a tall bookshelf, which is filled with books.",
+            "The cat is sitting in front of the bookshelf, looking towards the books while staring into the distance.",
+            "The cat is sitting or lying down in front of the bookshelf, possibly looking into the room or staring into the distance.",
+            "The cat is standing on a rug in front of a bookshelf, looking at the books on display."
+        ],
+        "beam_text:": [
+            "The cat is sitting in front of the bookshelf, looking at the camera.",
+            "The cat is sitting in front of the bookshelf, looking at the camera."
+        ]
+    },
+    "2346340.jpg": {
+        "top_k_text": [
+            "The person is cutting a birthday cake with a couple of friends in the presence of the person enjoying the cake's sweetness at the dinner table.",
+            "The person, a guy wearing a Hawaiian shirt and shorts, is presenting the birthday cake to two people sitting in the foreground. He is holding the cake box, either opening it or getting ready to reve",
+            "The person is cutting and presenting the cake to a young lady or girl at a celebration.",
+            "The person is presenting or holding up the cake, which is frosted and is likely a birthday cake."
+        ],
+        "beam_text:": [
+            "The person is presenting a birthday cake to another person.",
+            "The person is presenting a birthday cake to another person."
+        ]
+    },
+    "2367636.jpg": {
+        "top_k_text": [
+            "I cannot provide an exact number, but there are a bunch of kites in the sky being flown in the large grassy meadow.",
+            "There are fourteen colorful kites flying in the air.",
+            "There are a bunch of different kites in the sky, but the exact number cannot be determined without a more specific description or count. However, it can be confirmed that there is a large number of kites being flown.",
+            "There are many large and small kites being flown in the sky, likely in the hundreds."
+        ],
+        "beam_text:": [
+            "There are dozens of kites being flown in the sky.",
+            "There are dozens of kites being flown in the sky."
+        ]
+    },
+    "2466.jpg": {
+        "top_k_text": [
+            "There are several cars visible in the image, including a couple of parked cars, cars on a curving road, and a moving car at an intersection.",
+            "There are four cars in the image.",
+            "There are two cars in the image.",
+            "There is a car in the image, which is driving through an intersection in a city street."
+        ],
+        "beam_text:": [
+            "There are two cars in the image.",
+            "There are two cars in the image."
+        ]
+    },
+    "2335178.jpg": {
+        "top_k_text": [
+            "The woman is holding an open umbrella while sitting underneath it, also smiling and holding a black dog.",
+            "The woman is holding an umbrella and has a dog underneath it to protect them both from the sun.",
+            "The woman is holding the yellow and black umbrella to block the sun, presumably to protect herself and her dog from the harmful effects of sun exposure, such as sunburns or overheating.",
+            "The woman is holding an open yellow umbrella, standing under it while smiling, and holding onto her dog."
+        ],
+        "beam_text:": [
+            "The woman is holding the umbrella over herself and her dog.",
+            "The woman is holding the umbrella over herself and her dog."
+        ]
+    },
+    "2351602.jpg": {
+        "top_k_text": [
+            "The man is riding a surfboard through the ocean on a wave.",
+            "The man is surfing the ocean waves on a surfboard, riding a large wave and skillfully maneuvering his board through the high tide.",
+            "The man is riding a wave on a surfboard in the ocean.",
+            "The man is surfing on a wave in the ocean on his surfboard."
+        ],
+        "beam_text:": [
+            "The man is riding a wave on a surfboard in the ocean.",
+            "The man is riding a wave on a surfboard in the ocean."
+        ]
+    },
+    "2395777.jpg": {
+        "top_k_text": [
+            "There are two sheep in the image.",
+            "There are three sheep in the image.",
+            "There are two sheep in the image.",
+            "There are a couple of sheep in the image, with one standing and the other sitting down."
+        ],
+        "beam_text:": [
+            "There are two sheep in the image.",
+            "There are two sheep in the image."
+        ]
+    },
+    "2336908.jpg": {
+        "top_k_text": [
+            "The train is located near a rail yard and an empty train station, situated down tracks and in a nearby lot. It's also situated near a building.",
+            "The location of the train is in a station, passing through a city and next to a stadium.",
+            "The train is located within a train station, traveling beside a fence and train tracks.",
+            "The train is located on train tracks adjacent to a stadium, going through an empty train station, and situated near parking and the stadium. It is also in front of a city with tall buildings."
+        ],
+        "beam_text:": [
+            "The train is located at a train station in a city.",
+            "The train is located at a train station in a city."
+        ]
+    },
+    "2366584.jpg": {
+        "top_k_text": [
+            "The man is riding a skateboard on a road.",
+            "The man is riding a skateboard on a tarmac street or road, going around cones.",
+            "The man is skateboarding around small traffic cones in front of spectators.",
+            "The man is skateboarding down the street while navigating around orange cones that are placed on the road."
+        ],
+        "beam_text:": [
+            "The man is riding a skateboard down a road or street.",
+            "The man is riding a skateboard down a road or street."
+        ]
+    },
+    "2347592.jpg": {
+        "top_k_text": [
+            "The person on the court is playing tennis. They are seen swinging a tennis racquet to hit a ball, presumably in the middle of playing a match or practicing their shots.",
+            "The person on the court is preparing to receive, or possibly hit a tennis ball. He is holding a tennis racket and smiling at the camera, indicating that he is enjoying the game and is confident in his skill. The scene is",
+            "The person on the court is a tennis player who is either serving the ball, swinging his racket, or preparing to serve. He is engaging in a game of tennis.",
+            "The person on the court is standing, holding a tennis racket, and preparing for action during a tennis match. He is likely about to serve or play a shot."
+        ],
+        "beam_text:": [
+            "The person on the court is holding a tennis racket and preparing to serve the ball.",
+            "The person on the court is holding a tennis racket and preparing to serve the ball."
+        ]
+    },
+    "2321478.jpg": {
+        "top_k_text": [
+            "The woman at the table is eating food using chopsticks or straws to pick up her food and holding her bowl.",
+            "The woman is sitting at the table, eating chopsticks with food in a bowl and cups. She is enjoying her meal and seems happy while having her snack.",
+            "The woman is sitting at the table eating food with chopsticks. She appears to be enjoying dinner or sharing something with another person at the table. The food on the table includes chopsticks, soup, and a dish",
+            "The woman is eating food off of a plate at the table, specifically a plate of fried noodles, with chopsticks."
+        ],
+        "beam_text:": [
+            "The woman is sitting at the table and eating food using chopsticks.",
+            "The woman is sitting at the table and eating food using chopsticks."
+        ]
+    },
+    "2350658.jpg": {
+        "top_k_text": [
+            "The object of the clock tower is to display the current time for people in the surrounding area.",
+            "The object of the clock tower is to display the time prominently as a landmark or a centerpiece, possibly on top of an old building.",
+            "The clock tower has a clock mounted on top of it.",
+            "The object of the clock tower is to show the time and also to be a point of reference or landmark for the surrounding area."
+        ],
+        "beam_text:": [
+            "The object of the clock tower is to display the time.",
+            "The object of the clock tower is to display the time."
+        ]
+    },
+    "1169.jpg": {
+        "top_k_text": [
+            "The room's theme is a children's playroom or a classroom.",
+            "The theme of the room is a child's playroom or nursery, with children's toys, colorful walls, and pictures.",
+            "The theme of the room is focused on children, with various toys and educational materials, including colorful educational materials and a toy table next to a window. It's a welcoming environment designed for children to learn and play.",
+            "The room has a primary school children's theme."
+        ],
+        "beam_text:": [
+            "The theme of the room is a children's playroom.",
+            "The theme of the room is a children's playroom."
+        ]
+    },
+    "2408776.jpg": {
+        "top_k_text": [
+            "The clock is small, old, and made of red material. It has a red frame that houses the clock hands, while the clock face is made of clear glass.",
+            "The clock is round and red in color.",
+            "The clock is a vintage or old red square clock hanging on a yellow wall. It might also be an alarm clock made of metal or porcelain, and it is red and brown in color.",
+            "The clock is small, red, and red and clear in combination. It sits on the wall and is illuminated, either by a lantern or a lamp, creating a warm glow around it."
+        ],
+        "beam_text:": [
+            "The clock is square-shaped and red in color.",
+            "The clock is square-shaped and red in color."
+        ]
+    },
+    "2404867.jpg": {
+        "top_k_text": [
+            "There are many kites of various sizes decorating the wall.",
+            "There is a crowd or a pile of ornate, unique kites hanging on the wall, which suggests numerous kites in total. However, the exact number is not provided.",
+            "There are at least ten kites in the image, but it is not possible to provide an exact number simply by looking at the photo.",
+            "There are two kites in the image, hanging among several other kites."
+        ],
+        "beam_text:": [
+            "There are dozens of kites hanging on the wall.",
+            "There are dozens of kites hanging on the wall."
+        ]
+    },
+    "2381834.jpg": {
+        "top_k_text": [
+            "The train is located next to a large fence in a park-like setting.",
+            "The train is located in a grassy area, possibly in a park or a field, and it is in close proximity to a metal fence that likely acts as a barrier. It is not on regular rails.",
+            "The train is located on a narrow track, situated in an enclosed area behind a chain-link fence in an outdoor setting.",
+            "The train is located behind a fence in a field, possibly inside a train station, and is surrounded by trees and a forest."
+        ],
+        "beam_text:": [
+            "The train is located in a grassy field near a fence.",
+            "The train is located in a grassy field near a fence."
+        ]
+    },
+    "2325328.jpg": {
+        "top_k_text": [
+            "The cake is decorated with frosting featuring a teddy bear figure and a frosting pen.",
+            "The cake is decorated with a teddy bear holding a heart, and the teddy bear is also holding a toothbrush and brush.",
+            "The cake is decorated with a cute teddy bear.",
+            "The cake is decorated with a teddy bear or a baby bear design, which is a favorite character for a child's first birthday celebration."
+        ],
+        "beam_text:": [
+            "The cake is decorated with a teddy bear.",
+            "The cake is decorated with a teddy bear."
+        ]
+    },
+    "2412963.jpg": {
+        "top_k_text": [
+            "The man is surfing on the wave, riding on top of the water with a surfboard.",
+            "The man is riding a surfboard on top of a wave in the ocean, surfing in the water.",
+            "The man is riding his surfboard on top of a wave, skillfully maneuvering through the water.",
+            "The man is surfing on the wave on a surfboard, riding it skillfully and enjoying the thrill that comes with it."
+        ],
+        "beam_text:": [
+            "The man is riding a wave on a surfboard.",
+            "The man is riding a wave on a surfboard."
+        ]
+    },
+    "2349359.jpg": {
+        "top_k_text": [
+            "The airplane is located on an airport runway.",
+            "The airplane is located on a runway at an airport.",
+            "The airplane is located at an airport, specifically on the runway.",
+            "The airplane is located on the airport tarmac or runway."
+        ],
+        "beam_text:": [
+            "The airplane is located on the runway at an airport.",
+            "The airplane is located on the runway at an airport."
+        ]
+    },
+    "2409308.jpg": {
+        "top_k_text": [
+            "The man is wearing a green t-shirt.",
+            "The man is wearing a green shirt, gray sweats, and a beanie.",
+            "The man is wearing a green shirt and green bandanas.",
+            "The man is wearing a green t-shirt."
+        ],
+        "beam_text:": [
+            "The man is wearing a green shirt.",
+            "The man is wearing a green shirt."
+        ]
+    },
+    "2333440.jpg": {
+        "top_k_text": [
+            "The boy is getting ready to catch a ball in the field, positioned in a baseball position, with his catcher's mitt and ball glove on.",
+            "The boy on the field is playing baseball, specifically as a catcher, holding catcher's mitt (catcher's glove) and wearing a baseball uniform.",
+            "The boy is playing baseball on the field, wearing a uniform and glove. He is posing in the grass, with a fence in the background.",
+            "The boy is crouching down in the grass on the field, taking his position as a baseball player."
+        ],
+        "beam_text:": [
+            "The boy is playing baseball on the field, holding a catcher's mitt and getting ready to catch a ball.",
+            "The boy is playing baseball on the field, holding a catcher's mitt and getting ready to catch a ball."
+        ]
+    },
+    "498361.jpg": {
+        "top_k_text": [
+            "There are two trains parked at the station.",
+            "There are two trains parked at the station.",
+            "There are two trains parked at the station.",
+            "There are two trains parked at the station, either at separate tracks or next to each other on the same track."
+        ],
+        "beam_text:": [
+            "There are two trains parked at the station.",
+            "There are two trains parked at the station."
+        ]
+    },
+    "2339437.jpg": {
+        "top_k_text": [
+            "There are several hotdogs being grilled, as well as some franks, on the grill.",
+            "The image does not provide an exact number of dogs being grilled on the grill; however, it is clear that there are multiple dogs on the grill.",
+            "There are hot dogs being grilled on the grill, but the specific number cannot be determined from the image, as it shows only a part of the grill.",
+            "There are two hot dogs in the image that are being grilled."
+        ],
+        "beam_text:": [
+            "There are several hot dogs being grilled on the grill.",
+            "There are several hot dogs being grilled on the grill."
+        ]
+    },
+    "2400690.jpg": {
+        "top_k_text": [
+            "The cat in the image is standing in a straw-like area and rubbing its head against a sheep.",
+            "The cat is in an enclosed area next to some sheep, either running or walking across a dry area, possibly in the hay or hay-covered ground.",
+            "The cat is walking around, standing on the ground and sniffing hay. The cat is moving around a pile of hay and standing close to a group of farm animals including sheep and cows.",
+            "The cat is playing and standing on a pile of hay, seemingly entertained by its surroundings."
+        ],
+        "beam_text:": [
+            "The cat is walking across a pile of hay in the image.",
+            "The cat is walking across a pile of hay in the image."
+        ]
+    },
+    "2403801.jpg": {
+        "top_k_text": [
+            "There are a couple of sheep in the image.",
+            "The exact number of sheep in the image cannot be determined, but it is described as a herd of sheep.",
+            "I am unable to give a specific count of the sheep in the image without further information. However, the image shows a large number of sheep gathered and grazing.",
+            "The image shows a large herd of sheep, so there are multiple sheep in the picture. However, the exact number cannot be determined without more specific information or a closer view of the photo."
+        ],
+        "beam_text:": [
+            "There are dozens of sheep in the image.",
+            "There are dozens of sheep in the image."
+        ]
+    },
+    "2378049.jpg": {
+        "top_k_text": [
+            "The man is wearing an Orioles shirt.",
+            "The man is adjusting his shirt or rolling up his sleeves, while there are two pizzas in boxes on a wooden table in front of him.",
+            "The man is wearing a gray shirt with the Orioles brand on it.",
+            "The man is wearing an O's shirt sleeved shirt while holding a box of pizzas in his arms."
+        ],
+        "beam_text:": [
+            "The man is pulling up the sleeve of his shirt.",
+            "The man is pulling up the sleeve of his shirt."
+        ]
+    },
+    "2322781.jpg": {
+        "top_k_text": [
+            "The dog is laying on a pile of pillows, specifically a pillow with a cat in it, and it appears to be quite cute while doing so.",
+            "The dog is relaxing and resting its head on a pillow on the sofa. It is laying comfortably on the couch.",
+            "The dog is laying with its head on a pillow on the couch, appearing to be resting or relaxed.",
+            "The dog is laying on a pillow or a couch cushion, resting or relaxing its head."
+        ],
+        "beam_text:": [
+            "The dog is laying down on the couch, resting its head on a pillow.",
+            "The dog is laying down on the couch, resting its head on a pillow."
+        ]
+    },
+    "2387155.jpg": {
+        "top_k_text": [
+            "The person, either a man or a young person, is sitting at the table, smiling, and posing for a picture with their date or significant other. They have meals in front of them, which can be identified as biscuits",
+            "The person is sitting at the table holding a plate with their dining partner and several food items, including breakfast food.",
+            "The person is sitting at a table, accompanied by a man, and is smiling and posing for a photo with her food. It appears that she is enjoying her meal, most likely at a restaurant.",
+            "The person at the table, a lady, is sitting between two men, posing with plates of food and smiling broadly."
+        ],
+        "beam_text:": [
+            "The person is sitting at the table with a plate of food in front of them.",
+            "The person is sitting at the table with a plate of food in front of them."
+        ]
+    },
+    "2332137.jpg": {
+        "top_k_text": [
+            "The clock displayed on the side of the building is an analog clock.",
+            "The clock displayed on the side of the building is made of metal.",
+            "The clock displayed on the side of the building has Roman numerals on it.",
+            "The clock displayed on the side of the building is prominently located and shows that it is almost 5 o'clock."
+        ],
+        "beam_text:": [
+            "The clock displayed on the side of the building has Roman numerals.",
+            "The clock displayed on the side of the building has Roman numerals."
+        ]
+    },
+    "2336859.jpg": {
+        "top_k_text": [
+            "There are five people in the group: four kids and one adult who appears to be a coach, potentially a trainer or a parent.",
+            "There are five people in the group, including one adult and four children.",
+            "There are six people in the group.",
+            "The image description varies the number of people in the group, with it being described as a group of three males and three females or a group of four people, specifically four riders. I cannot definitively determine the exact number of people in the"
+        ],
+        "beam_text:": [
+            "There are five people in the group.",
+            "There are five people in the group."
+        ]
+    },
+    "2362287.jpg": {
+        "top_k_text": [
+            "There are four sausages on the rack.",
+            "The image shows an array of sausages on the rack. However, since I don't have enough information to determine the count, I can only say there are \"several\" sausages sitting in the oven.",
+            "There are three sausages on the rack.",
+            "Three sausages are on the rack."
+        ],
+        "beam_text:": [
+            "There are three sausages on the rack.",
+            "There are three sausages on the rack."
+        ]
+    },
+    "2414457.jpg": {
+        "top_k_text": [
+            "There are a dozen orange and red boats.",
+            "There are several orange motorboats, which can be referred to as an assortment, meaning multiple boats of the same type or color are present in the image.",
+            "There are six boats in total, which include five orange boats and one red boat.",
+            "There are nine boats in the image."
+        ],
+        "beam_text:": [
+            "There are six boats in the image.",
+            "There are six boats in the image."
+        ]
+    },
+    "2381473.jpg": {
+        "top_k_text": [
+            "The man is wearing bright orange snow pants.",
+            "The man is wearing snow pants and glasses while standing on top of the hill and snowboarding down the snow.",
+            "The man is wearing a white sweater and goggles.",
+            "The man is wearing a sweatshirt and a blue jacket."
+        ],
+        "beam_text:": [
+            "The man is wearing a white jacket.",
+            "The man is wearing a white jacket."
+        ]
+    },
+    "2394545.jpg": {
+        "top_k_text": [
+            "There is a laptop computer sitting on top of the table.",
+            "The object on the table is a laptop.",
+            "There is a laptop computer and a keyboard on the table.",
+            "The object on the table is an Apple laptop computer."
+        ],
+        "beam_text:": [
+            "The object on the table is a laptop computer.",
+            "The object on the table is a laptop computer."
+        ]
+    },
+    "2384949.jpg": {
+        "top_k_text": [
+            "There are two elephants in the image.",
+            "There are two elephants in the image.",
+            "There are two elephants in the image.",
+            "There are two elephants in the image."
+        ],
+        "beam_text:": [
+            "There are two elephants in the image.",
+            "There are two elephants in the image."
+        ]
+    },
+    "2389573.jpg": {
+        "top_k_text": [
+            "The woman is using the knife to slice or cut the bride's cake. She is following tradition and performing a significant ritual during her wedding celebration.",
+            "The woman is using the knife to cut into the cake.",
+            "The woman is using the knife to cut into a large white cake, likely for a celebration or special occasion.",
+            "The woman is cutting the large wedding cake to celebrate a special occasion."
+        ],
+        "beam_text:": [
+            "The woman is using the knife to cut into her wedding cake.",
+            "The woman is using the knife to cut into her wedding cake."
+        ]
+    },
+    "713925.jpg": {
+        "top_k_text": [
+            "The image is taken in a living room.",
+            "The image is the location of a living room. The living room appears to be in a small apartment, featuring comfortable seating and various objects in the room.",
+            "The image is taken of a living room.",
+            "The image is set in a living room in an apartment."
+        ],
+        "beam_text:": [
+            "The location of the image is a living room.",
+            "The location of the image is a living room."
+        ]
+    },
+    "2407175.jpg": {
+        "top_k_text": [
+            "The dog is playing with a blue frisbee while laying on a blue and grey pillow on the tile floor.",
+            "The dog is playing with a frisbee, holding it in its mouth.",
+            "The dog is playing with the dog and has a blue disk with it. It is holding its mouth on the disk and has a toy in its mouth.",
+            "The dog, a bulgur dog puppy, is playing a game of fetch using a frisbee on the floor."
+        ],
+        "beam_text:": [
+            "The dog is playing with a frisbee.",
+            "The dog is playing with a frisbee."
+        ]
+    },
+    "2353171.jpg": {
+        "top_k_text": [
+            "The man is wearing clothing appropriate for working with trains, as well as a gas mask.",
+            "The man is wearing a hat, glasses, and is carrying two large cylindrical containers, or barrels, on his shoulders.",
+            "The man is wearing a jacket and a hat, and he has a beard.",
+            "The man is wearing a white shirt and a hat to handle the train track."
+        ],
+        "beam_text:": [
+            "The man is wearing a white shirt.",
+            "The man is wearing a white shirt."
+        ]
+    },
+    "2353253.jpg": {
+        "top_k_text": [
+            "Although I can see the image, as an AI language model, I am unable to provide exact numbers without actually seeing the pic. However, it is clear from the statement that many sheep are present and grazing on the hillside.",
+            "The image features a herd of sheep, but to provide an exact number, I would need to know the actual number of sheep pictured. The image emphasizes the vastness of the pasture, suggesting a large number of sheep in the",
+            "There are 10 sheep visible in the image.",
+            "There are six sheep in the image, grazing in the open field."
+        ],
+        "beam_text:": [
+            "There are six sheep in the image.",
+            "There are six sheep in the image."
+        ]
+    },
+    "2385583.jpg": {
+        "top_k_text": [
+            "The stop sign is located in the middle of an intersection in a small town, on residential property on a street where lots of trees line the sidewalk.",
+            "The stop sign is located on a neighborhood street, situated near some trees, in between vehicles.",
+            "The stop sign is located at an intersection, in front of some trees, and near a residential street.",
+            "The stop sign is located on the side of a quiet country road or residential street."
+        ],
+        "beam_text:": [
+            "The stop sign is located at an intersection in a residential neighborhood.",
+            "The stop sign is located at an intersection in a residential neighborhood."
+        ]
+    },
+    "2396778.jpg": {
+        "top_k_text": [
+            "The woman is sitting at the table, looking at a large pizza, and getting ready to eat.",
+            "The woman is sitting at a table, eating food and drinking from a water bottle.",
+            "The woman is sitting at the table with an untouched pizza pie and two glasses, seemingly looking at her pizza and enjoying her meal.",
+            "The woman sits at the table with a plate of pizza in front of her, eating and enjoying the meal."
+        ],
+        "beam_text:": [
+            "The woman is sitting at the table, eating pizza and drinking water.",
+            "The woman is sitting at the table, eating pizza and drinking water."
+        ]
+    },
+    "2355919.jpg": {
+        "top_k_text": [
+            "The woman is holding and posing with a yellow umbrella, making it a significant part of her outfit and appearance in the image.",
+            "The woman is holding an umbrella to her face, looking through the strings of the large open Asian design umbrella.",
+            "The woman is holding a yellow umbrella, likely keeping herself dry and shaded from sun or rain.",
+            "The woman is holding the umbrella while smiling for a relaxed picture."
+        ],
+        "beam_text:": [
+            "The woman is holding the umbrella over her head to protect herself from the sun.",
+            "The woman is holding the umbrella over her head to protect herself from the sun."
+        ]
+    },
+    "2322348.jpg": {
+        "top_k_text": [
+            "The toothbrush is pink and blue.",
+            "The toothbrush has a pink and blue color.",
+            "The color of the toothbrush is white.",
+            "The toothbrush is pink and blue."
+        ],
+        "beam_text:": [
+            "The color of the toothbrush is pink.",
+            "The color of the toothbrush is pink."
+        ]
+    },
+    "2347378.jpg": {
+        "top_k_text": [
+            "There are two horses in the image.",
+            "There are three horses in the scene.",
+            "There are three white horses in the image.",
+            "There are two horses in the image."
+        ],
+        "beam_text:": [
+            "There are two horses in the image.",
+            "There are two horses in the image."
+        ]
+    },
+    "2379020.jpg": {
+        "top_k_text": [
+            "There are hundreds of toilets in the image, all lined up in a row on the floor.",
+            "There are many toilets in the image, though the exact count cannot be determined without a specific numbering in the image description. We can say, however, that there are several toilets.",
+            "There are a bunch or lots of toilets in the image, showing the diverse designs available on the showroom floor. However, I can't give a specific number without an exact count or description.",
+            "As an AI, I cannot provide an exact number without seeing the image. However, it can be described as a \"line of toilets\" which implies multiple toilets are present. So, there are more than two toilets"
+        ],
+        "beam_text:": [
+            "There are dozens of toilets in the image.",
+            "There are dozens of toilets in the image."
+        ]
+    },
+    "2415222.jpg": {
+        "top_k_text": [
+            "The doughnuts are fresh and hot, indicating that they have been recently fried and are warm at the time the image was taken.",
+            "The temperature of the doughnuts in the image is being cooked, indicating that they are freshly made and probably warm.",
+            "The doughnuts are being cooked on an open fryer, and some of them might still be cooling in the fryer. Whether they are cool or warm, the doughnuts are being prepared and showcased",
+            "The doughnuts in the image are hot, indicating that they have been cooked or baked recently."
+        ],
+        "beam_text:": [
+            "The doughnuts are freshly baked and hot.",
+            "The doughnuts are freshly baked and hot."
+        ]
+    },
+    "2366309.jpg": {
+        "top_k_text": [
+            "There are two snowboarders on the slope.",
+            "There are two snowboarders on the slope.",
+            "There are two snowboarders on the slope.",
+            "There are two snowboarders on top of the slope, enjoying their time while standing in the snow."
+        ],
+        "beam_text:": [
+            "There are two snowboarders on the slope.",
+            "There are two snowboarders on the slope."
+        ]
+    },
+    "2393882.jpg": {
+        "top_k_text": [
+            "The woman is standing by the bar, tending to the customers, making drinks, and waiting on the customers at an ice cream freezer and deli counter.",
+            "The woman is standing behind the bar in a bar, possibly tending to customers, managing orders, or making drinks.",
+            "The woman behind the bar fills drinks, with a counter full of supplies, beers, and condiments around her.",
+            "The woman is working and serving drinks at the bar, possibly in a small, darkened beer bar with multiple booths."
+        ],
+        "beam_text:": [
+            "The woman is standing behind the bar, serving drinks to customers.",
+            "The woman is standing behind the bar, serving drinks to customers."
+        ]
+    },
+    "2327616.jpg": {
+        "top_k_text": [
+            "The train is in the shape of a blue bird.",
+            "The train is round in shape.",
+            "The train is shaped like a bullet, suggesting that it is streamlined and aerodynamic.",
+            "The train in the image is shaped like a crane."
+        ],
+        "beam_text:": [
+            "The train is round in shape.",
+            "The train is round in shape."
+        ]
+    },
+    "2344648.jpg": {
+        "top_k_text": [
+            "The table has a variety of items on it, including a purse, cell phone, keys, and toiletries such as lotions, toothbrushes, and soaps.",
+            "There is a vast collection of personal belongings on the table, including items such as bags, watches, electronics, books, ties, wallets, keychains, pill bottles, scissors, and a purse",
+            "On the table, there are various items such as a colorful tote bag, a wallet, pictures, bottles of hair care products, and possibly other personal care items arranged neatly in groups.",
+            "The table is covered with a variety of items, including personal belongings like toiletries, electronics, and other everyday necessities. These items are arranged neatly, indicating the care and attention to detail given to the organization."
+        ],
+        "beam_text:": [
+            "The table is covered with a variety of items, including personal belongings, office supplies, and miscellaneous items.",
+            "The table is covered with a variety of items, including personal belongings, office supplies, and miscellaneous items."
+        ]
+    },
+    "2321259.jpg": {
+        "top_k_text": [
+            "The girl is wearing a pink jacket and a helmet.",
+            "The girl is wearing a red jacket as she rides her horse on the beach.",
+            "The girl is wearing a pink shirt and a helmet while riding the horse on the beach.",
+            "The girl is wearing a pink shirt and a black riding helmet while riding the horse on the beach."
+        ],
+        "beam_text:": [
+            "The girl is wearing a pink shirt.",
+            "The girl is wearing a pink shirt."
+        ]
+    },
+    "2370339.jpg": {
+        "top_k_text": [
+            "The train has an elongated shape, resembling a giant train locomotive engine.",
+            "The train is shaped like an old locomotive.",
+            "The train is shaped like a train engine designed to carry passengers.",
+            "The train is box-shaped with multiple pieces connected to it."
+        ],
+        "beam_text:": [
+            "The train is round in shape.",
+            "The train is round in shape."
+        ]
+    },
+    "2345822.jpg": {
+        "top_k_text": [
+            "The woman is seated on the bus, sitting on a blue padded chair.",
+            "The woman is sitting on the bus, holding a water bottle, and appears to be drinking from it.",
+            "The woman is sitting on the bus, holding a water bottle and drinking water while gazing off into the distance. She is wearing sandals, and her foot appears to have a missing toenail.",
+            "The woman is sitting on a bus seat, dressed in a red blouse and shorts. She is holding a drink in her hand and appears to be enjoying it while traveling."
+        ],
+        "beam_text:": [
+            "The woman is sitting on the bus and drinking water from a bottle.",
+            "The woman is sitting on the bus and drinking water from a bottle."
+        ]
+    },
+    "2408814.jpg": {
+        "top_k_text": [
+            "The man is adjusting another man's black tie, fixing it in an effort to make it look better.",
+            "The man is fixing the tie of another man, ensuring that it is properly tied.",
+            "The man is helping another man to tie a necktie.",
+            "The man is helping another man tie his tie, presumably as part of a dress-up party or a professional setting."
+        ],
+        "beam_text:": [
+            "The man is getting his tie tied by another man.",
+            "The man is getting his tie tied by another man."
+        ]
+    },
+    "2341568.jpg": {
+        "top_k_text": [
+            "There are three men in the image.",
+            "There are three men in the image.",
+            "There are two men in the image.",
+            "There are three men in the image."
+        ],
+        "beam_text:": [
+            "There are three men in the image.",
+            "There are three men in the image."
+        ]
+    },
+    "2331367.jpg": {
+        "top_k_text": [
+            "In the background, a man is standing next to trees on the grass, possibly enjoying the outdoor environment or observing the other people. There are also other people in the background who are standing or walking near the large structure.",
+            "In the background, there is a person standing and trying to hit a large kite with a bat. The person is close to the person doing the handstand on the grass near the street.",
+            "The person in the background is playing frisbee in a grassy field, likely participating in a game with others.",
+            "The person in the background is flying a kite in the park."
+        ],
+        "beam_text:": [
+            "The person in the background is flying a kite.",
+            "The person in the background is flying a kite."
+        ]
+    },
+    "2411527.jpg": {
+        "top_k_text": [
+            "There are four skis in the image.",
+            "There are four sets of skis in the image.",
+            "There are four sets of skis, which are held by the four people in the image.",
+            "There are four sets of skis."
+        ],
+        "beam_text:": [
+            "There are four skis in the image.",
+            "There are four skis in the image."
+        ]
+    },
+    "2372176.jpg": {
+        "top_k_text": [
+            "In the scene, there are three individuals sitting on a living room couch. They are holding pets, which include dogs and likely birds, in their lap while sitting. There is also a bowl placed on a table, possibly containing food or",
+            "The person in the scene is sitting on a couch in a living room, possibly waiting or waiting to be served.",
+            "The person in the scene, either a woman or a man, is sitting on a couch with a cat.",
+            "The person in the scene is sitting on the floor and watching a woman on the couch."
+        ],
+        "beam_text:": [
+            "The person in the scene is sitting on a couch in a living room.",
+            "The person in the scene is sitting on a couch in a living room."
+        ]
+    },
+    "2375655.jpg": {
+        "top_k_text": [
+            "The object displayed on the side of the building is a large analog clock.",
+            "The object displayed on the side of the building is a clock with the numbers \"10\" and \"9\" missing.",
+            "An antique clock is displayed on the side of the building. The clock was presumably salvaged and has been given a new life on the side of the brick building.",
+            "The object displayed on the side of the building is a weather vane and a clock."
+        ],
+        "beam_text:": [
+            "The object displayed on the side of the building is a clock.",
+            "The object displayed on the side of the building is a clock."
+        ]
+    },
+    "2389739.jpg": {
+        "top_k_text": [
+            "The bird is walking or running across a grassy field, likely moving through the tall grass on the lush green hill.",
+            "The bird, a sparrow, is walking down a hill or slope, towards the camera or potentially some foliage, depending on the interpretation of the photo.",
+            "The bird is walking around and standing on a lawn next to a wooded area with a forest-like setting.",
+            "The bird is walking or running across a lush green field with plenty of grass, possibly a park with a hillside. It's also located near a forest with shrubs and trees."
+        ],
+        "beam_text:": [
+            "The bird is walking across a lush green field.",
+            "The bird is walking across a lush green field."
+        ]
+    }
+}
